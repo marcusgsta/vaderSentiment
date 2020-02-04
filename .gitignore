@@ -56,3 +56,13 @@ Temporary Items
 # personal notes and help
 *.notes
 *.help
+
+#
+/vaderSentiment/cleaned_tweets
+/vaderSentiment/combined_tweets_swedish_serialized
+/vaderSentiment/emoji_utf8_lexicon_swedish_3.txt
+/vaderSentiment/emoji_utf8_lexicon_swedish_2.txt
+/vaderSentiment/emoji_utf8_lexicon_swedish.txt
+/vaderSentiment/tweets_swedish
+/vaderSentiment/tweets_swedish_serialized
+

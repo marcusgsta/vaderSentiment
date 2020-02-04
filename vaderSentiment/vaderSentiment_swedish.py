@@ -1,4 +1,5 @@
 # coding: utf-8
+# COPIED FROM vaderSentiment.py AND TRANSLATED/ADJUSTED TO SWEDISH BY MARCUS GUSTAFSSON
 # Author: C.J. Hutto
 # Thanks to George Berry for reducing the time complexity from something like O(N^4) to O(N).
 # Thanks to Ewan Klein and Pierpaolo Pantone for bringing VADER into NLTK. Those modifications were awesome.
@@ -45,8 +46,58 @@ NEGATE = \
      "oughtn't", "shan't", "shouldn't", "uh-uh", "wasn't", "weren't",
      "without", "wont", "wouldnt", "won't", "wouldn't", "rarely", "seldom", "despite"]
 
+NEGATE_SWEDISH = \
+    [ "aldrig",
+     "utan",
+     "knappast",
+     "varken",
+     "inte", "ej", "icke", "näpp", "nä", "ingen", "inga", "ingenting", "ingenstans",
+     "utan",
+     "sällan", "trots"
+     ]
+
 # booster/dampener 'intensifiers' or 'degree adverbs'
 # http://en.wiktionary.org/wiki/Category:English_degree_adverbs
+
+BOOSTER_DICT_SWEDISH = {"absolut": B_INCR,
+                        "otroligt": B_INCR, "fruktansvärt": B_INCR,
+                        "helt": B_INCR,
+                        "avsevärt": B_INCR,
+                        "bestämt": B_INCR,
+                        "djupt": B_INCR,
+                        "effing": B_INCR,
+                        "enormt": B_INCR,
+                        "helt": B_INCR,
+                        "särskilt": B_INCR,
+                        "exceptionellt": B_INCR,
+                        "extremt": B_INCR,
+                        "fantastiskt": B_INCR,
+                        "flipping": B_INCR,
+                        "flippin": B_INCR,
+"fricking": B_INCR, "frickin": B_INCR, "frigging": B_INCR, "friggin": B_INCR,
+"helt": B_INCR, "fucking": B_INCR,
+"starkt": B_INCR, "hella": B_INCR, "starkt": B_INCR, "enormt": B_INCR, "otroligt": B_INCR,
+"intensivt": B_INCR,
+"huvudsakligen": B_INCR,
+"mer": B_INCR,
+"mest": B_INCR,
+"särskilt": B_INCR,
+"rent": B_INCR, "helt": B_INCR, "verkligen": B_INCR, "anmärkningsvärt": B_INCR,
+"så": B_INCR,
+"väsentligen": B_INCR,
+"grundligt": B_INCR, "helt": B_INCR, "oerhört": B_INCR,
+"uber": B_INCR, "otroligt": B_INCR, "ovanligt": B_INCR,
+"fullständigt": B_INCR,
+"mycket": B_INCR,
+"nästan": B_DECR, "knappt": B_DECR, "knappast": B_DECR, "tillräckligt": B_DECR,
+"typ av": B_DECR, "kinda": B_DECR, "kindof": B_DECR, "kind-of": B_DECR,
+"mindre": B_DECR, "liten": B_DECR, "marginellt": B_DECR, "ibland": B_DECR, "delvis": B_DECR,
+"knappt": B_DECR, "något": B_DECR, "något": B_DECR,
+"sort of": B_DECR, "sorta": B_DECR, "sortof": B_DECR, "sort-of": B_DECR,
+"väldigt": B_INCR
+                        }
+
+# Marcus added "väldigt" 
 
 BOOSTER_DICT = \
     {"absolutely": B_INCR, "amazingly": B_INCR, "awfully": B_INCR, "completely": B_INCR, "considerably": B_INCR,
@@ -79,6 +130,7 @@ SPECIAL_CASE_IDIOMS = {"the shit": 3, "the bomb": 3, "bad ass": 1.5, "yeah right
                        "kiss of death": -1.5}
 
 
+
 # #Static methods# #
 
 def negated(input_words, include_nt=True):
@@ -87,7 +139,8 @@ def negated(input_words, include_nt=True):
     """
     input_words = [str(w).lower() for w in input_words]
     neg_words = []
-    neg_words.extend(NEGATE)
+    # neg_words.extend(NEGATE)
+    neg_words.extend(NEGATE_SWEDISH)
     for word in neg_words:
         if word in input_words:
             return True
@@ -140,8 +193,10 @@ def scalar_inc_dec(word, valence, is_cap_diff):
     """
     scalar = 0.0
     word_lower = word.lower()
-    if word_lower in BOOSTER_DICT:
-        scalar = BOOSTER_DICT[word_lower]
+    # if word_lower in BOOSTER_DICT:
+    if word_lower in BOOSTER_DICT_SWEDISH:
+        # scalar = BOOSTER_DICT[word_lower]
+        scalar = BOOSTER_DICT_SWEDISH[word_lower]
         if valence < 0:
             scalar *= -1
         # check if booster/dampener word is in ALLCAPS (while others aren't)
@@ -157,7 +212,7 @@ class SentiText(object):
     """
     Identify sentiment-relevant string-level properties of input text.
     """
-
+    
     def __init__(self, text):
         if not isinstance(text, str):
             text = str(text).encode('utf-8')
@@ -206,8 +261,19 @@ class SentimentIntensityAnalyzer(object):
     """
     Give a sentiment intensity score to sentences.
     """
-
-    def __init__(self, lexicon_file="vader_lexicon.txt", emoji_lexicon="emoji_utf8_lexicon.txt"):
+    # original VADER lexicon and emoji lexicon (English)
+    #def __init__(self, lexicon_file="vader_lexicon.txt", emoji_lexicon="emoji_utf8_lexicon.txt"):
+    
+    # Swedish VADER lexicon - unstemmed
+    def __init__(self, lexicon_file="vader_lexicon_swedish.txt", emoji_lexicon="./lexicons/emoji_utf8_lexicon_swedish_4.txt"):
+    
+    # def __init__(self, lexicon_file="../../swedishtokens", emoji_lexicon="emoji_utf8_lexicon_swedish_4.txt"):
+    
+    # Swedish VADER lexicon - stemmed
+    #def __init__(self, lexicon_file="./lexicons/vader_lexicon_swedish_stemmed_2.txt", emoji_lexicon="./lexicons/emoji_utf8_lexicon_swedish_4.txt"):
+    
+    # Swedish AFINN lexicon
+    #def __init__(self, lexicon_file="./lexicons/AFINN-sv-165.txt", emoji_lexicon="./lexicons/emoji_utf8_lexicon_swedish_4.txt"):
         _this_module_file_path_ = os.path.abspath(getsourcefile(lambda: 0))
         lexicon_full_filepath = os.path.join(os.path.dirname(_this_module_file_path_), lexicon_file)
         with open(lexicon_full_filepath, encoding='utf-8') as f:
@@ -218,6 +284,7 @@ class SentimentIntensityAnalyzer(object):
         with open(emoji_full_filepath, encoding='utf-8') as f:
             self.emoji_full_filepath = f.read()
         self.emojis = self.make_emoji_dict()
+        self.EMOJI_COUNT = 0
 
     def make_lex_dict(self):
         """
@@ -227,9 +294,13 @@ class SentimentIntensityAnalyzer(object):
         for line in self.lexicon_full_filepath.split('\n'):
             if len(line) > 0:
                 # reverse split, to get all words but the last
-                # word = line.rsplit(' ', 10)[0]
-                # measure = line.split(None, 10)[-1]
-                (word, measure) = line.strip().split('\t')[0:2]
+                # Marcus changed, because some words in the Swedish dictionary
+                # consist of more than one word,
+                # and the English dict also contains redundant info:
+                word = line.rsplit(' ', 10)[0]
+                measure = line.split(None, 10)[-1]
+                # Original line:
+                #(word, measure) = line.strip().split('\t')[0:2]
                 lex_dict[word] = float(measure)
         return lex_dict
 
@@ -239,7 +310,10 @@ class SentimentIntensityAnalyzer(object):
         """
         emoji_dict = {}
         for line in self.emoji_full_filepath.split('\n'):
+            
             (emoji, description) = line.strip().split('\t')[0:2]
+            #print(line.strip().split('\t')[0:2])
+            #(emoji, description) = line.strip().split(' ')[0:1]
             emoji_dict[emoji] = description
         return emoji_dict
 
@@ -252,13 +326,78 @@ class SentimentIntensityAnalyzer(object):
         # convert emojis to their textual descriptions
         text_token_list = text.split()
         text_no_emoji_lst = []
+        # #### added by Marcus, uncomment to stem tweets:
+        ################################################
+        # Stemming
+        ################################################
+        # from nltk.stem import snowball
+        # ## from nltk.stem.porter import *
+        # from nltk.stem.snowball import SnowballStemmer
+        # stemmer = SnowballStemmer("swedish")
+        # 
+        # stemmed_tokens = []
+        # for token in text_token_list:
+        #     t = stemmer.stem(token)
+        #     stemmed_tokens.append(t)
+        
+        ################################################
+        
+        # removing stopwords
+        ################################################
+        
+        # get list of stopwords
+        import nltk
+        stopwords = nltk.corpus.stopwords.words('swedish')
+        tokens_without_stopwords = []
         for token in text_token_list:
+            if token not in stopwords:
+                # add tokens to tweet
+                tokens_without_stopwords.append(token)
+        
+        ################################################
+        #import emoji
+        ###
+        # - uncomment line below to use stemming
+        #for token in stemmed_tokens:
+        #for token in text_token_list:
+        for token in tokens_without_stopwords:
+            ###
+            # Addition by Marcus Gustafsson, because of a bug
+            # token needs to be split, otherwise it won't detect more than one emoji in a row
+
+            # def extract_emojis(str):
+            #   return ''.join(c for c in str if c in emoji.UNICODE_EMOJI)
+            # 
+            # myEmojis = ''.join(c for c in token if c in emoji.UNICODE_EMOJI)
+            # 
+            # for emo in myEmojis:
+            #     if emo in self.emojis:
+            #         # get the textual description
+            #         description = self.emojis[emo]
+            #         text_no_emoji_lst.append(description)
+            #     else:
+            #         text_no_emoji_lst.append(emo)
+            
+            # look for tokens which contain an emoji:
+            # look for characters that are not a-z,
+            z = ""
+            z = re.match("[^a-zA-Z0-9åäöÅÄÖ\”\−\“\*\[\]\\à\–\'\(\)\=\…\+\!\$\;\,\%\/\?\-\.\@\|\:\#\_\"\&\(]", token)
+            if z is not None:
+                print(z)
+                self.EMOJI_COUNT = self.EMOJI_COUNT + 1
+                print(self.EMOJI_COUNT)
+            
+            
+            ### original version of the code above - uncomment to use
             if token in self.emojis:
                 # get the textual description
                 description = self.emojis[token]
                 text_no_emoji_lst.append(description)
+                
             else:
                 text_no_emoji_lst.append(token)
+            ###
+                
         text = " ".join(x for x in text_no_emoji_lst)
 
         sentitext = SentiText(text)
@@ -269,7 +408,8 @@ class SentimentIntensityAnalyzer(object):
             valence = 0
             i = words_and_emoticons.index(item)
             # check for vader_lexicon words that may be used as modifiers or negations
-            if item.lower() in BOOSTER_DICT:
+            # if item.lower() in BOOSTER_DICT:
+            if item.lower() in BOOSTER_DICT_SWEDISH:
                 sentiments.append(valence)
                 continue
             if (i < len(words_and_emoticons) - 1 and item.lower() == "kind" and
@@ -282,7 +422,7 @@ class SentimentIntensityAnalyzer(object):
         sentiments = self._but_check(words_and_emoticons, sentiments)
 
         valence_dict = self.score_valence(sentiments, text)
-        
+
         return valence_dict
 
     def sentiment_valence(self, valence, sentitext, item, i, sentiments):
@@ -333,8 +473,10 @@ class SentimentIntensityAnalyzer(object):
     def _but_check(words_and_emoticons, sentiments):
         # check for modification in sentiment due to contrastive conjunction 'but'
         words_and_emoticons_lower = [str(w).lower() for w in words_and_emoticons]
-        if 'but' in words_and_emoticons_lower:
-            bi = words_and_emoticons_lower.index('but')
+        # if 'but' in words_and_emoticons_lower:
+        if 'men' in words_and_emoticons_lower:
+            # bi = words_and_emoticons_lower.index('but')
+            bi = words_and_emoticons_lower.index('men')
             for sentiment in sentiments:
                 si = sentiments.index(sentiment)
                 if si < bi:
@@ -380,8 +522,10 @@ class SentimentIntensityAnalyzer(object):
         # check for booster/dampener bi-grams such as 'sort of' or 'kind of'
         n_grams = [threetwoone, threetwo, twoone]
         for n_gram in n_grams:
-            if n_gram in BOOSTER_DICT:
-                valence = valence + BOOSTER_DICT[n_gram]
+            # if n_gram in BOOSTER_DICT:
+            if n_gram in BOOSTER_DICT_SWEDISH:
+                # valence = valence + BOOSTER_DICT[n_gram]
+                valence = valence + BOOSTER_DICT_SWEDISH[n_gram]
         return valence
 
     @staticmethod
@@ -512,8 +656,8 @@ class SentimentIntensityAnalyzer(object):
         return sentiment_dict
 
 ############################################
-############ T E S T I N G #################
-### FUNCTIONS ADDED FOR READING SWEDISH TWEETS FROM FILE
+### FUNCTIONS ADDED FOR THE SWEDISH VERSION
+# - make these function as another class, in a different file, and import ?
 
 def readTweets(filename):
     import pickle
@@ -522,72 +666,81 @@ def readTweets(filename):
     return itemlist
 
 
-def getStats(listOfTweets):
-    analyzer = SentimentIntensityAnalyzer()
+# Not preprocessed tweets
+#tweets = readTweets("combined_tweets_swedish_serialized")
+# Preprocessed tweets:
+tweets = readTweets("cleaned_tweets")
 
-    countCorrectPos = 0
-    countIncorrectPos = 0
-    countCorrectNeg = 0
-    countIncorrectNeg = 0
+analyzer = SentimentIntensityAnalyzer()
 
-    countPos = 0
-    countNeg = 0
+import ScoreCalculator
 
-    TotalCorrect = 0
-    TotalIncorrect = 0
-    count = 0
+scores = ScoreCalculator.ScoreCalculator(tweets, analyzer);
 
-    for tweet in listOfTweets:
-        count += 1
-        vs = analyzer.polarity_scores(tweet[0])
-        compound = vs['compound']
-        if tweet[1] == 'Positive':
-            countPos += 1
-        if tweet[1] == 'Negative':
-            countNeg += 1
-        
-        if tweet[1] == "Positive" and compound >= 0.05:
-            countCorrectPos += 1
-        elif tweet[1] == "Positive" and compound <= 0.05:
-            countIncorrectPos += 1
-        elif tweet[1] == "Negative" and compound <= -0.05:
-            countCorrectNeg += 1
-        elif tweet[1] == "Negative" and compound >= -0.05:
-            countIncorrectNeg += 1
+scores.getScores()
 
-    TotalCorrect = countCorrectPos + countCorrectNeg
-    TotalIncorrect = countIncorrectPos + countIncorrectNeg
-        #print("{:-<65} {} {}".format(tweet[0], tweet[1], str(vs)))
+# scores.printStats();
 
-    print("Correctly estimated positive: ", countCorrectPos)
-    print("Incorrectly estimated positive: ", countIncorrectPos)
-    print("Correctly estimated negative: ", countCorrectNeg)
-    print("Incorrectly estimated negative: ", countIncorrectNeg)
+#scores.calculateMetrics()
 
-    print("Percent correctly estimated pos", countCorrectPos/countPos)
-    print("Percent correctly estimated neg", countCorrectNeg/countNeg)
+#strategy = 'Vader lexicon unstemmed'
+#scores.printMetricsTable(strategy)
+#scores.printConfusionMatrix()
 
-    print("Nr of positive tweets", countPos)
-    print("Nr of negative tweets", countNeg)
+scores.confusionMatrix()
 
-    print("Total Correctly estimated: ", TotalCorrect)
-    print("Total Incorrectly estimated: ", TotalIncorrect)
-    print("Total nr of Tweets: ", count)
-    print("% correctly estimated: ", TotalCorrect/count)
+###########################################
 
-
-tweets = readTweets("tweets_swedish_serialized")
-getStats(tweets)
-######################################## End of test
 
 if __name__ == '__main__':
     # --- examples -------
-    sentences = ["Jag förstår inte hur man kan överge bortförda barn",
+    sentences = [
+    "väldigt bra",
+    "bra",
+    "tjusigt",
+    "tjusigt!",
+    "tjusigt!!!",
+    "tjusig",
+    "tjusig!",
+    "tjusig!!!",
+    "😃 😀",
+    "😀",
+    "skrattande ansikte",
+    "skrattande ansikte 😀",
+    "@JohannaWestberg skärpning nu! ;)",
+    "@JohannaWestberg skärpning nu!",
+    "@Clownbrigade Vem vill inte ligga lixom... #hörvadmanvillhöra 😂 😜",
+    "@Clownbrigade Vem vill inte ligga lixom... #hörvadmanvillhöra 😂😜",
+    "@AFCWilshere4 @Kingsholmen då kan ni hålla handen och #avgå båda två. 😂 ",
+    "ansikte med tårar av glädje",
+    "😂",
+    "men wtff det är ju knappt kunskap då? 😦 enda skillnaden är att vi har fått ett till kp i matte annars är schemat som vanligt",
+    "Värmde pizza i brödrosten 😂 😂",
+    "Värmde pizza i brödrosten 😂😂",
+    "Känslan då man glömmer sin väska med träningskläder på bussen :')",
+    "Förkylda människor som sätter sig på tunnelbanan, fattar dom inte att dom smittar andra? #förkylning #virus",
+    "RT @elisabethohlson: Kan vi inte se drottningen på min ratade bild som en symbol för Sveriges hållning inför nazism http://t.co/hu6JhSMjvc",
+    "RT @FreakFabrik: När det kommer till att 'lita på rosa', så har jag större förtroende till Vanish än F!",
+    "1,5 timme försenat, tänker nu hoppa ombord på tåget m ord. avgångstid en timme efter mitt tåg",
+    "RT @Emmywin: Älskar när jag blir kallad konstig, att vara konstig innebär att jag inte är som andra. Älskar att vara konstig.",
+    "Veckan börjar med att jag tar med mig fel dator till jobbet och inte upptäcker det förrän jag ska koppla in den. Morr.",
+    "menar inte att vi inte ska prata om palestina, är lika viktigt det med, utan att vi inte bara ska nöja oss med rubriken med störst typsnitt",
+    "RT @jennylinp: Den här ramsan 'dagens polis skyddar morgondagens Hitler' förstår jag mig inte på.",
+
+
+
+    "Detta är inte bra.",
+                "Jag gillar inte glass",
+                "Jag inte gillar glass",
+                "Jag gillar absolut inte glass",
+                "Jag förstår inte hur man kan överge bortförda barn",
                  "Jag förstår inte hur man kan ÖVERGE bortförda barn",
                  "Jag förstår inte hur man kan ÖVERGE bortförda barn!!!",
                  "jag älskar inte när det regnar. Not",
                 "jag älskar inte när det regnar.",
                 "jag älskar när regnar.",
+                "Jag hatar allt och alla.",
+                "Världen är en fantastiskt plats, men jag har bara inte lust idag.",
                  "VADER is smart, handsome, and funny.",  # positive sentence example
                  "VADER is smart, handsome, and funny!",
                  # punctuation emphasis handled correctly (sentiment intensity adjusted)

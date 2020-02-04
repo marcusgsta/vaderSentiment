@@ -1,0 +1,3562 @@
+😀	skrattande ansikte
+😁	strålande ansikte med leende ögon
+😂	skrattande ansikte med tårar av glädje
+🤣	rullar på marken skrattandes
+😃	skrattande ansikte med stora ögon
+😄	skrattande ansikte med leende ögon
+😅	skrattande ansikte med svett
+😆	skrattande skysande ansikte
+😉	blinkande ansikte
+😊	leende ansikte med leende ögon
+😋	ansikte njuta av mat
+😎	leende ansikte med solglasögon
+😍	leende ansikte med hjärta-ögon
+😘	ansikte blåser en kyss
+🥰	leende ansikte med 3 hjärtan
+😗	kyssande ansikte
+😙	kyssande ansikte med leende ögon
+😚	kyssande ansikte med slutna ögon
+☺	️ leende ansikte
+☺	leende ansikte
+🙂	något leende ansikte
+🤗	kramar ansiktet
+🤩	star-slog
+🤔	tänkande ansikte
+🤨	ansikte med upphöjd ögonbryn
+😐	neutralt ansikte
+😑	uttrycksfritt ansikte
+😶	ansikte utan mun
+🙄	ansikte med rullande ögon
+😏	smirking ansikte
+😣	uthålliga ansikte
+😥	sorgligt men lättat ansikte
+😮	ansikte med öppen mun
+🤐	blixtlås-ansikte
+😯	skymt ansikte
+😪	sömnigt ansikte
+😫	trött ansikte
+😴	sovande ansikte
+😌	lättad ansikte
+😛	ansikte med tunga
+😜	blinkande ansikte med tungan
+😝	kvistande ansikte med tungan
+🤤	siklande ansikte
+😒	obemannat ansikte
+😓	nedsträckt ansikte med svett
+😔	fundersamt ansikte
+😕	förvirrat ansikte
+🙃	upp och ned ansikte
+🤑	pengar-mun ansikte
+😲	förvånad ansikte
+☹	️ rynkande ansikte
+☹	rynkande ansikte
+🙁	något rynkande ansikte
+😖	förvirrat ansikte
+😞	besviken ansikte
+😟	orolig ansikte
+😤	ansikte med ånga från näsan
+😢	gråtande ansikte
+😭	högt gråtande ansikte
+😦	rynkande ansikte med öppen mun
+😧	vred ansikte
+😨	rädsla ansikte
+😩	trött ansikte
+🤯	exploderande huvud
+😬	grimaserande ansikte
+😰	orolig ansikte med svett
+😱	ansikte skrikande av rädsla
+🥵	heta ansikte
+🥶	kall ansikte
+😳	spolat ansikte
+🤪	zany ansikte
+😵	yr ansikte
+😡	pouting ansikte
+😠	argt ansikte
+🤬	ansikte med symboler på munnen
+😷	ansikte med medicinsk mask
+🤒	ansikte med termometer
+🤕	ansikte med huvudbandage
+🤢	illamående ansikte
+🤮	ansikte kräkningar
+🤧	nysande ansikte
+😇	leende ansikte med gloria
+🤠	cowboy hatt ansikte
+🥳	festande ansikte
+🥴	woozy ansikte
+🥺	plåga ansiktet
+🤥	liggande ansikte
+🤫	shushing ansikte
+🤭	ansikte med handen över munnen
+🧐	ansikte med monokel
+🤓	nörd ansikte
+😈	leende ansikte med horn
+👿	arg ansikte med horn
+🤡	clown ansikte
+👹	ogre
+👺	troll
+💀	skalle
+☠	️dödskalle och benknotor
+☠	dödskalle och benknotor
+👻	spöke
+👽	utomjording
+👾	främmande monster
+🤖	robot ansikte
+💩	hög med poo
+😺	flirande kattansikte
+😸	flirande kattansikte med leende ögon
+😹	katt ansikte med tårar av glädje
+😻	le katt ansikte med hjärta-ögon
+😼	kattansikte med snett leende
+😽	kyssande kattansikte
+🙀	trött katt ansikte
+😿	gråtande kattansikte
+😾	pouting katt ansikte
+🙈	se-ingen-ondska apa
+🙉	höra-ingen-ondska apa
+🙊	tala-ingen-ondska apa
+🏻	lätt hudton
+🏼	medellång hudton
+🏽	medium hudton
+🏾	medel-mörk hudton
+👶	bebis
+👶🏻	baby: lätt hudton
+👶🏼	baby: medium-lätt hudton
+👶🏽	baby: medium hudton
+👶🏾	baby: medium-mörk hudton
+👶🏿	baby: mörk hudton
+🧒	barn
+🧒🏻	barn: lätt hudton
+🧒🏼	barn: medium - lätt hudton
+🧒🏾	barn: medium-mörk hudton
+🧒🏿	barn: mörk hudton
+👦	pojke
+👦🏻	pojke: lätt hudton
+👦🏼	pojke: medium-lätt hudton
+👦🏽	pojke: medium hudton
+👦🏾	pojke: medium-mörk hudton
+👦🏿	pojke: mörk hudton
+👧	flicka
+👧🏻	tjej: lätt hudton
+👧🏼	tjej: medellång hudton
+👧🏽	flicka: medium hudton
+👧🏾	tjej: medium-mörk hudton
+👧🏿	flicka: mörk hudton
+🧑	vuxen
+🧑🏻	vuxen: lätt hudton
+🧑🏼	vuxen: medel-lätt hudton
+🧑🏽	vuxen: medium hudton
+🧑🏾	vuxen: medium-mörk hudton
+🧑🏿	vuxen: mörk hudton
+👨	man
+👨🏻	man: lätt hudton
+👨🏼	man: medium-lätt hudton
+👨🏽	man: medium hudton
+👨🏾	man: medium-mörk hudton
+👨🏿	man: mörk hudton
+👩	kvinna
+👩🏻	kvinna: lätt hudton
+👩🏼	kvinna: medellång hudton
+👩🏽	kvinna: medium hudton
+👩🏾	kvinna: medium-mörk hudton
+👩🏿	kvinna: mörk hudton
+🧓	äldre vuxen
+🧓🏻	äldre vuxen: lätt hudton
+🧓🏼	äldre vuxen: medel-lätt hudton
+🧓🏽	äldre vuxen: medium hudton
+🧓🏾	äldre vuxen: medium-mörk hudton
+🧓🏿	äldre vuxen: mörk hudton
+👴	gammal man
+👴🏻	gammal man: lätt hudton
+👴🏼	gammal man: medellång hudton
+👴🏽	gammal man: medium hudton
+👴🏾	gammal man: medium-mörk hudton
+👴🏿	gammal man: mörk hudton
+👵	gammal kvinna
+👵🏻	gammal kvinna: lätt hudton
+👵🏼	gammal kvinna: medium-lätt hudton
+👵🏽	gammal kvinna: medium hudton
+👵🏾	gammal kvinna: medium-mörk hudton
+👵🏿	gammal kvinna: mörk hudton
+👨‍⚕️	man hälsoarbetare
+👨‍⚕	man hälsoarbetare
+👨🏻‍⚕️	man hälsoarbetare: lätt hudton
+👨🏻‍⚕	man hälsoarbetare: lätt hudton
+👨🏼‍⚕️	man hälsoarbetare: medium-lätt hudton
+👨🏼‍⚕	man hälsoarbetare: medium-lätt hudton
+👨🏽‍⚕️	man hälsoarbetare: medium hudton
+👨🏽‍⚕	man hälsoarbetare: medium hudton
+👨🏾‍⚕️	man hälsoarbetare: medium-mörk hudton
+👨🏾‍⚕	man hälsoarbetare: medium-mörk hudton
+👨🏿‍⚕️	man hälsoarbetare: mörk hudton
+👨🏿‍⚕	man hälsoarbetare: mörk hudton
+👩‍⚕️	kvinna hälsa arbetare
+👩‍⚕	kvinna hälsa arbetare
+👩🏻‍⚕️	kvinna hälsovårdare: lätt hudton
+👩🏻‍⚕	kvinna hälsovårdare: lätt hudton
+👩🏼‍⚕️	kvinna hälsovårdare: medel-ljus hudton
+👩🏼‍⚕	kvinna hälsovårdare: medel-ljus hudton
+👩🏽‍⚕️	kvinna hälsovårdare: medium hudton
+👩🏽‍⚕	kvinna hälsovårdare: medium hudton
+👩🏾‍⚕️	kvinna hälsovårdare: medium-mörk hudton
+👩🏾‍⚕	kvinna hälsovårdare: medium-mörk hudton
+👩🏿‍⚕️	kvinna hälsovårdare: mörk hudton
+👩🏿‍⚕	kvinna hälsovårdare: mörk hudton
+👨‍🎓	man student
+👨🏻‍🎓	manstudent: lätt hudton
+👨🏼‍🎓	manstudent: medellång hudton
+👨🏽‍🎓	manstudent: medium hudton
+👨🏾‍🎓	manstudent: medium-mörk hudton
+👨🏿‍🎓	manstudent: mörk hudton
+👩‍🎓	kvinnastudent
+👩🏻‍🎓	kvinnastudent: lätt hudton
+👩🏼‍🎓	kvinnastudent: medellång hudton
+👩🏽‍🎓	kvinnastudent: medium hudton
+👩🏾‍🎓	kvinnastudent: medium-mörk hudton
+👩🏿‍🎓	kvinnastudent: mörk hudton
+👨‍🏫	manlärare
+👨🏻‍🏫	manlärare: lätt hudton
+👨🏼‍🏫	manlärare: medellång hudton
+👨🏽‍🏫	manlärare: medium hudton
+👨🏾‍🏫	manlärare: medium-mörk hudton
+👨🏿‍🏫	manlärare: mörk hudton
+👩‍🏫	lärarinna
+👩🏻‍🏫	kvinnlärare: lätt hudton
+👩🏼‍🏫	kvinnlärare: medelljus hudton
+👩🏽‍🏫	kvinnlärare: medium hudton
+👩🏾‍🏫	kvinnlärare: medium-mörk hudton
+👩🏿‍🏫	kvinnlärare: mörk hudton
+👨‍⚖️	man domare
+👨‍⚖	man domare
+👨🏻‍⚖️	man domare: lätt hudton
+👨🏻‍⚖	man domare: lätt hudton
+👨🏼‍⚖️	man domare: medium-lätt hudton
+👨🏼‍⚖	man domare: medium-lätt hudton
+👨🏽‍⚖️	man domare: medium hudton
+👨🏽‍⚖	man domare: medium hudton
+👨🏾‍⚖️	man domare: medium-mörk hudton
+👨🏾‍⚖	man domare: medium-mörk hudton
+👨🏿‍⚖️	man domare: mörk hudton
+👨🏿‍⚖	man domare: mörk hudton
+👩‍⚖️	kvinna domare
+👩‍⚖	kvinna domare
+👩🏻‍⚖️	kvinna domare: lätt hudton
+👩🏻‍⚖	kvinna domare: lätt hudton
+👩🏼‍⚖️	kvinna domare: medium-lätt hudton
+👩🏼‍⚖	kvinna domare: medium-lätt hudton
+👩🏽‍⚖️	kvinna domare: medium hudton
+👩🏽‍⚖	kvinna domare: medium hudton
+👩🏾‍⚖️	kvinna domare: medium-mörk hudton
+👩🏾‍⚖	kvinna domare: medium-mörk hudton
+👩🏿‍⚖️	kvinna domare: mörk hudton
+👩🏿‍⚖	kvinna domare: mörk hudton
+👨‍🌾	man bonde
+👨🏻‍🌾	man bonde: lätt hudton
+👨🏼‍🌾	man bonde: medium-lätt hudton
+👨🏽‍🌾	man bonde: medium hudton
+👨🏾‍🌾	man bonde: medium-mörk hudton
+👨🏿‍🌾	man bonde: mörk hudton
+👩‍🌾	kvinna bonde
+👩🏻‍🌾	kvinnabonde: lätt hudton
+👩🏼‍🌾	kvinna bonde: medium-lätt hudton
+👩🏽‍🌾	kvinna bonde: medium hudton
+👩🏾‍🌾	kvinna bonde: medium-mörk hudton
+👩🏿‍🌾	kvinnabonde: mörk hudton
+👨‍🍳	man kock
+👨🏻‍🍳	man kock: lätt hudton
+👨🏼‍🍳	man kock: medium-lätt hudton
+👨🏽‍🍳	man kock: medium hudton
+👨🏾‍🍳	man kock: medium-mörk hudton
+👨🏿‍🍳	man kock: mörk hudton
+👩‍🍳	kvinna kock
+👩🏻‍🍳	kvinnakock: lätt hudton
+👩🏼‍🍳	kvinnakock: medium-lätt hudton
+👩🏽‍🍳	kvinnakock: medium hudton
+👩🏾‍🍳	kvinnakock: medium-mörk hudton
+👩🏿‍🍳	kvinnakock: mörk hudton
+👨‍🔧	man mekaniker
+👨🏻‍🔧	manmekaniker: lätt hudton
+👨🏼‍🔧	manmekaniker: medellång hudton
+👨🏽‍🔧	manmekaniker: medium hudton
+👨🏾‍🔧	manmekaniker: medium-mörk hudton
+👨🏿‍🔧	manmekaniker: mörk hudton
+👩‍🔧	kvinnamekaniker
+👩🏻‍🔧	kvinnamekaniker: lätt hudton
+👩🏼‍🔧	kvinnamekaniker: medelljus hudton
+👩🏽‍🔧	kvinnamekaniker: medium hudton
+👩🏾‍🔧	kvinnamekaniker: medium-mörk hudton
+👩🏿‍🔧	kvinnamekaniker: mörk hudton
+👨‍🏭	man fabriksarbetare
+👨🏻‍🏭	man fabriksarbetare: lätt hudton
+👨🏼‍🏭	man fabriksarbetare: medium-ljus hudton
+👨🏽‍🏭	man fabriksarbetare: medium hudton
+👨🏾‍🏭	man fabriksarbetare: medium-mörk hudton
+👨🏿‍🏭	man fabriksarbetare: mörk hudton
+👩‍🏭	kvinnofabriksarbetare
+👩🏻‍🏭	kvinnofabriksarbetare: lätt hudton
+👩🏼‍🏭	kvinnofabriksarbetare: medelljus hudton
+👩🏽‍🏭	kvinnofabriksarbetare: medium hudton
+👩🏾‍🏭	kvinnofabriksarbetare: medium-mörk hudton
+👨‍💼	man kontorsarbetare
+👨🏻‍💼	man kontorsarbetare: lätt hudton
+👨🏼‍💼	man kontorsarbetare: medelljus hudton
+👨🏽‍💼	man kontorsarbetare: medium hudton
+👨🏾‍💼	man kontorsarbetare: medium-mörk hudton
+👨🏿‍💼	man kontorsarbetare: mörk hudton
+👩‍💼	kvinna kontorist
+👩🏻‍💼	kvinna kontorist: lätt hudton
+👩🏼‍💼	kvinna kontorsarbetare: medium-ljus hudton
+👩🏽‍💼	kvinna kontorsarbetare: medium hudton
+👩🏾‍💼	kvinna kontorist: medel-mörk hudton
+👩🏿‍💼	kvinna kontorist: mörk hudton
+👨‍🔬	man forskare
+👨🏻‍🔬	manforskare: lätt hudton
+👨🏼‍🔬	manforskare: medelljus hudton
+👨🏽‍🔬	manforskare: medium hudton
+👨🏾‍🔬	manforskare: medium-mörk hudton
+👨🏿‍🔬	manforskare: mörk hudton
+👩‍🔬	kvinnliga forskare
+👩🏻‍🔬	kvinnoforskare: lätt hudton
+👩🏼‍🔬	kvinnoforskare: medium-lätt hudton
+👩🏽‍🔬	kvinnoforskare: medium hudton
+👩🏾‍🔬	kvinnoforskare: medium-mörk hudton
+👩🏿‍🔬	kvinnoforskare: mörk hudton
+👨‍💻	man teknolog
+👨🏻‍💻	man teknolog: lätt hudton
+👨🏼‍💻	man teknolog: medium-lätt hudton
+👨🏽‍💻	man teknolog: medium hudton
+👨🏾‍💻	man teknolog: medium-mörk hudton
+👨🏿‍💻	man teknolog: mörk hudton
+👩‍💻	kvinnateknolog
+👩🏻‍💻	kvinnateknolog: lätt hudton
+👩🏼‍💻	kvinnateknolog: medium-lätt hudton
+👩🏽‍💻	kvinnateknolog: medium hudton
+👩🏾‍💻	kvinnateknolog: medium-mörk hudton
+👩🏿‍💻	kvinnateknolog: mörk hudton
+👨‍🎤	man sångare
+👨🏻‍🎤	mansångare: lätt hudton
+👨🏼‍🎤	mansångare: medium-lätt hudton
+👨🏽‍🎤	mansångare: medium hudton
+👨🏾‍🎤	mansångare: medium-mörk hudton
+👨🏿‍🎤	mansångare: mörk hudton
+👩‍🎤	kvinnasångare
+👩🏻‍🎤	kvinnasångare: lätt hudton
+👩🏼‍🎤	kvinnasångare: medium-lätt hudton
+👩🏽‍🎤	kvinnasångare: medium hudton
+👩🏾‍🎤	kvinnasångare: medium-mörk hudton
+👩🏿‍🎤	kvinnasångare: mörk hudton
+👨‍🎨	man konstnär
+👨🏻‍🎨	mankonstnär: lätt hudton
+👨🏼‍🎨	mankonstnär: medelljus hudton
+👨🏽‍🎨	man konstnär: medium hudton
+👨🏾‍🎨	man konstnär: medium-mörk hudton
+👨🏿‍🎨	man konstnär: mörk hudton
+👩‍🎨	kvinnakonstnär
+👩🏻‍🎨	kvinnakonstnär: lätt hudton
+👩🏼‍🎨	kvinnakonstnär: medelljus hudton
+👩🏽‍🎨	kvinnakonstnär: medium hudton
+👩🏾‍🎨	kvinnakonstnär: medium-mörk hudton
+👩🏿‍🎨	kvinnakonstnär: mörk hudton
+👨‍✈️	man pilot
+👨‍✈	man pilot
+👨🏻‍✈️	man pilot: lätt hudton
+👨🏻‍✈	man pilot: lätt hudton
+👨🏼‍✈️	manpilot: medellång hudton
+👨🏼‍✈	manpilot: medellång hudton
+👨🏽‍✈️	manpilot: medium hudton
+👨🏽‍✈	manpilot: medium hudton
+👨🏾‍✈️	manpilot: medium-mörk hudton
+👨🏾‍✈	manpilot: medium-mörk hudton
+👨🏿‍✈️	manpilot: mörk hudton
+👨🏿‍✈	manpilot: mörk hudton
+👩‍✈️	kvinnapilot
+👩‍✈	kvinnapilot
+👩🏻‍✈️	kvinnapilot: lätt hudton
+👩🏻‍✈	kvinnapilot: lätt hudton
+👩🏼‍✈️	kvinnapilot: medellång hudton
+👩🏼‍✈	kvinnapilot: medellång hudton
+👩🏽‍✈️	kvinnapilot: medium hudton
+👩🏽‍✈	kvinnapilot: medium hudton
+👩🏾‍✈️	kvinnapilot: medium-mörk hudton
+👩🏾‍✈	kvinnapilot: medium-mörk hudton
+👩🏿‍✈️	kvinnapilot: mörk hudton
+👩🏿‍✈	kvinnapilot: mörk hudton
+👨‍🚀	man astronaut
+👨🏻‍🚀	man astronaut: lätt hudton
+👨🏼‍🚀	man astronaut: medium-ljus hudton
+👨🏽‍🚀	man astronaut: medium hudton
+👨🏾‍🚀	man astronaut: medium-mörk hudton
+👨🏿‍🚀	man astronaut: mörk hudton
+👩‍🚀	kvinnastronaut
+👩🏻‍🚀	kvinna astronaut: lätt hudton
+👩🏼‍🚀	kvinna astronaut: medium-ljus hudton
+👩🏽‍🚀	kvinna astronaut: medium hudton
+👩🏾‍🚀	kvinna astronaut: medium-mörk hudton
+👩🏿‍🚀	kvinnastronaut: mörk hudton
+👨‍🚒	man brandman
+👨🏻‍🚒	man brandman: lätt hudton
+👨🏼‍🚒	man brandman: medellång hudton
+👨🏽‍🚒	man brandman: medium hudton
+👨🏾‍🚒	man brandman: medium-mörk hudton
+👨🏿‍🚒	man brandman: mörk hudton
+👩‍🚒	kvinna brandman
+👩🏻‍🚒	kvinna brandman: lätt hudton
+👩🏼‍🚒	kvinna brandman: medellång hudton
+👩🏽‍🚒	kvinna brandman: medium hudton
+👩🏾‍🚒	kvinna brandman: medium-mörk hudton
+👩🏿‍🚒	kvinna brandman: mörk hudton
+👮	polis
+👮🏻	polis: lätt hudton
+👮🏼	polisman: medellång hudton
+👮🏽	polis: medelhudton
+👮🏾	polis: medel-mörk hudton
+👮🏿	polisman: mörk hudton
+👮‍♂️	man polis
+👮‍♂	man polis
+👮🏻‍♂️	man polis: lätt hudton
+👮🏻‍♂	man polis: lätt hudton
+👮🏼‍♂️	man polis: medel-lätt hudton
+👮🏼‍♂	man polis: medel-lätt hudton
+👮🏽‍♂️	man polis: medelhudton
+👮🏽‍♂	man polis: medelhudton
+👮🏾‍♂️	man polis: medel-mörk hudton
+👮🏾‍♂	man polis: medel-mörk hudton
+👮🏿‍♂️	man polis: mörk hudton
+👮🏿‍♂	man polis: mörk hudton
+👮‍♀️	kvinna polis
+👮‍♀	kvinna polis
+👮🏻‍♀️	kvinna polis: lätt hudton
+👮🏻‍♀	kvinna polis: lätt hudton
+👮🏼‍♀️	kvinna polis: medel-lätt hudton
+👮🏼‍♀	kvinna polis: medel-lätt hudton
+👮🏽‍♀️	kvinna polis: medelhudton
+👮🏽‍♀	kvinna polis: medelhudton
+👮🏾‍♀️	kvinna polis: medium-mörk hudton
+👮🏾‍♀	kvinna polis: medium-mörk hudton
+👮🏿‍♀️	kvinna polis: mörk hudton
+👮🏿‍♀	kvinna polis: mörk hudton
+🕵️	detektiv-
+🕵	detektiv-
+🕵🏻	detektiv: lätt hudton
+🕵🏼	detektiv: medellång hudton
+🕵🏽	detektiv: medium hudton
+🕵🏾	detektiv: medium-mörk hudton
+🕵🏿	detektiv: mörk hudton
+🕵️‍♂️	man detektiv
+🕵‍♂️	man detektiv
+🕵️‍♂	man detektiv
+🕵‍♂	man detektiv
+🕵🏻‍♂️	mandetektiv: lätt hudton
+🕵🏻‍♂	mandetektiv: lätt hudton
+🕵🏼‍♂️	mandetektiv: medium-lätt hudton
+🕵🏼‍♂	mandetektiv: medium-lätt hudton
+🕵🏽‍♂️	mandetektiv: medium hudton
+🕵🏽‍♂	mandetektiv: medium hudton
+🕵🏾‍♂️	mandetektiv: medium-mörk hudton
+🕵🏾‍♂	mandetektiv: medium-mörk hudton
+🕵🏿‍♂️	mandetektiv: mörk hudton
+🕵🏿‍♂	mandetektiv: mörk hudton
+🕵️‍♀️	kvinnedetektiv
+🕵‍♀️	kvinnedetektiv
+🕵️‍♀	kvinnedetektiv
+🕵‍♀	kvinnedetektiv
+🕵🏻‍♀️	kvinnedetektiv: lätt hudton
+🕵🏻‍♀	kvinnedetektiv: lätt hudton
+🕵🏼‍♀️	kvinnedetektiv: medellång hudton
+🕵🏼‍♀	kvinnedetektiv: medellång hudton
+🕵🏽‍♀️	kvinnedetektiv: medium hudton
+🕵🏽‍♀	kvinnedetektiv: medium hudton
+🕵🏾‍♀️	kvinnedetektiv: medium-mörk hudton
+🕵🏾‍♀	kvinnedetektiv: medium-mörk hudton
+🕵🏿‍♀️	kvinnedetektiv: mörk hudton
+🕵🏿‍♀	kvinnedetektiv: mörk hudton
+💂	vakt
+💂🏻	skydd: lätt hudton
+💂🏼	skydd: medellång hudton
+💂🏽	skydd: medium hudton
+💂🏾	skydd: medium-mörk hudton
+💂🏿	skydd: mörk hudton
+💂‍♂️	man vakt
+💂‍♂	man vakt
+💂🏻‍♂️	manskydd: lätt hudton
+💂🏻‍♂	manskydd: lätt hudton
+💂🏼‍♂️	manskydd: medium-lätt hudton
+💂🏼‍♂	manskydd: medium-lätt hudton
+💂🏽‍♂️	manskydd: medium hudton
+💂🏽‍♂	manskydd: medium hudton
+💂🏾‍♂️	manskydd: medium-mörk hudton
+💂🏾‍♂	manskydd: medium-mörk hudton
+💂🏿‍♂️	manskydd: mörk hudton
+💂🏿‍♂	manskydd: mörk hudton
+💂‍♀️	kvinnavakt
+💂‍♀	kvinnavakt
+💂🏻‍♀️	kvinnavakt: lätt hudton
+💂🏻‍♀	kvinnavakt: lätt hudton
+💂🏼‍♀️	kvinnavakt: medium-lätt hudton
+💂🏼‍♀	kvinnavakt: medium-lätt hudton
+💂🏽‍♀️	kvinnavakt: medium hudton
+💂🏽‍♀	kvinnavakt: medium hudton
+💂🏾‍♀️	kvinnavakt: medium-mörk hudton
+💂🏾‍♀	kvinnavakt: medium-mörk hudton
+💂🏿‍♀️	kvinnavakt: mörk hudton
+💂🏿‍♀	kvinnavakt: mörk hudton
+👷	byggarbetare
+👷🏻	byggnadsarbetare: lätt hudton
+👷🏼	byggnadsarbetare: medelljus hudton
+👷🏽	byggnadsarbetare: medium hudton
+👷🏾	byggnadsarbetare: medium-mörk hudton
+👷🏿	byggnadsarbetare: mörk hudton
+👷‍♂️	man byggnadsarbetare
+👷‍♂	man byggnadsarbetare
+👷🏻‍♂️	man byggnadsarbetare: lätt hudton
+👷🏻‍♂	man byggnadsarbetare: lätt hudton
+👷🏼‍♂️	man byggnadsarbetare: medelljus hudton
+👷🏼‍♂	man byggnadsarbetare: medelljus hudton
+👷🏽‍♂️	man byggnadsarbetare: medium hudton
+👷🏽‍♂	man byggnadsarbetare: medium hudton
+👷🏾‍♂️	man byggnadsarbetare: medium-mörk hudton
+👷🏾‍♂	man byggnadsarbetare: medium-mörk hudton
+👷🏿‍♂️	man byggnadsarbetare: mörk hudton
+👷🏿‍♂	man byggnadsarbetare: mörk hudton
+👷‍♀️	kvinna byggnadsarbetare
+👷‍♀	kvinna byggnadsarbetare
+👷🏻‍♀️	kvinna byggnadsarbetare: lätt hudton
+👷🏻‍♀	kvinna byggnadsarbetare: lätt hudton
+👷🏼‍♀️	kvinna byggnadsarbetare: medium-ljus hudton
+👷🏼‍♀	kvinna byggnadsarbetare: medium-ljus hudton
+👷🏽‍♀️	kvinna byggnadsarbetare: medium hudton
+👷🏽‍♀	kvinna byggnadsarbetare: medium hudton
+👷🏾‍♀️	kvinna byggnadsarbetare: medium-mörk hudton
+👷🏾‍♀	kvinna byggnadsarbetare: medium-mörk hudton
+👷🏿‍♀️	kvinna byggnadsarbetare: mörk hudton
+👷🏿‍♀	kvinna byggnadsarbetare: mörk hudton
+🤴	prins
+🤴🏻	prins: lätt hudton
+🤴🏼	prins: medium-lätt hudton
+🤴🏽	prins: medium hudton
+🤴🏾	prins: medium-mörk hudton
+🤴🏿	prins: mörk hudton
+👸	prinsessa
+👸🏻	prinsessa: lätt hudton
+👸🏼	prinsessa: medium-lätt hudton
+👸🏽	prinsessa: medium hudton
+👸🏾	prinsessa: medium-mörk hudton
+👸🏿	prinsessa: mörk hudton
+👳	person som bär turban
+👳🏻	person som bär turban: lätt hudton
+👳🏼	person som bär turban: medellång hudton
+👳🏽	person som bär turban: medium hudton
+👳🏾	person som bär turban: medium-mörk hudton
+👳🏿	person som bär turban: mörk hudton
+👳‍♂️	man bär turban
+👳‍♂	man bär turban
+👳🏻‍♂️	man bär turban: lätt hudton
+👳🏻‍♂	man bär turban: lätt hudton
+👳🏼‍♂️	man bär turban: medium-lätt hudton
+👳🏼‍♂	man bär turban: medium-lätt hudton
+👳🏽‍♂️	man bär turban: medium hudton
+👳🏽‍♂	man bär turban: medium hudton
+👳🏾‍♂️	man bär turban: medium-mörk hudton
+👳🏾‍♂	man bär turban: medium-mörk hudton
+👳🏿‍♂️	man bär turban: mörk hudton
+👳🏿‍♂	man bär turban: mörk hudton
+👳‍♀️	kvinna som bär turban
+👳‍♀	kvinna som bär turban
+👳🏻‍♀️	kvinna som bär turban: lätt hudton
+👳🏻‍♀	kvinna som bär turban: lätt hudton
+👳🏼‍♀️	kvinna som bär turban: medellång hudton
+👳🏼‍♀	kvinna som bär turban: medellång hudton
+👳🏽‍♀️	kvinna som bär turban: medium hudton
+👳🏽‍♀	kvinna som bär turban: medium hudton
+👳🏾‍♀️	kvinna bär turban: medium-mörk hudton
+👳🏾‍♀	kvinna bär turban: medium-mörk hudton
+👳🏿‍♀️	kvinna som bär turban: mörk hudton
+👳🏿‍♀	kvinna som bär turban: mörk hudton
+👲	man med kinesisk mössa
+👲🏻	man med kinesisk mössa: lätt hudton
+👲🏼	man med kinesisk mössa: medium ljus hudton
+👲🏽	man med kinesisk mössa: medium hudton
+👲🏾	man med kinesisk mössa: medium-mörk hudton
+👲🏿	man med kinesisk mössa: mörk hudton
+🧕	kvinna med huvudduk
+🧕🏻	kvinna med huvudduk: lätt hudton
+🧕🏼	kvinna med huvudduk: medelljus hudton
+🧕🏽	kvinna med huvudduk: medium hudton
+🧕🏾	kvinna med huvudduk: medium-mörk hudton
+🧕🏿	kvinna med huvudduk: mörk hudton
+🧔	skäggig person
+🧔🏻	skäggig person: lätt hudton
+🧔🏼	skäggig person: medellång hudton
+🧔🏽	skäggig person: medium hudton
+🧔🏾	skäggig person: medium-mörk hudton
+🧔🏿	skäggig person: mörk hudton
+👱	blondhårig person
+👱🏻	blondhårig person: lätt hudton
+👱🏼	blondhårig person: medellång hudton
+👱🏽	blondhårig person: medium hudton
+👱🏾	blondhårig person: medium-mörk hudton
+👱🏿	blondhårig person: mörk hudton
+👱‍♂️	blondhårig man
+👱‍♂	blondhårig man
+👱🏻‍♂️	blondhårig man: lätt hudton
+👱🏻‍♂	blondhårig man: lätt hudton
+👱🏼‍♂️	blondhårig man: medellång hudton
+👱🏼‍♂	blondhårig man: medellång hudton
+👱🏽‍♂️	blondhårig man: medium hudton
+👱🏽‍♂	blondhårig man: medium hudton
+👱🏾‍♂️	blondhårig man: medel-mörk hudton
+👱🏾‍♂	blondhårig man: medel-mörk hudton
+👱🏿‍♂️	blondhårig man: mörk hudton
+👱🏿‍♂	blondhårig man: mörk hudton
+👱‍♀️	blondhårig kvinna
+👱‍♀	blondhårig kvinna
+👱🏻‍♀️	blondhårig kvinna: lätt hudton
+👱🏻‍♀	blondhårig kvinna: lätt hudton
+👱🏼‍♀️	blondhårig kvinna: medellång hudton
+👱🏼‍♀	blondhårig kvinna: medellång hudton
+👱🏽‍♀️	blondhårig kvinna: medium hudton
+👱🏽‍♀	blondhårig kvinna: medium hudton
+👱🏾‍♀️	blondhårig kvinna: medium-mörk hudton
+👱🏾‍♀	blondhårig kvinna: medium-mörk hudton
+👱🏿‍♀️	blondhårig kvinna: mörk hudton
+👱🏿‍♀	blondhårig kvinna: mörk hudton
+👨‍🦰	man, rödhårig
+👨🏻‍🦰	man, rödhårig: lätt hudton
+👨🏼‍🦰	man, rödhårig: medellång hudton
+👨🏽‍🦰	man, rödhårig: medium hudton
+👨🏾‍🦰	man, rödhårig: medium-mörk hudton
+👨🏿‍🦰	man, rödhårig: mörk hudton
+👩‍🦰	kvinna, rödhårig
+👩🏻‍🦰	kvinna, rödhårig: lätt hudton
+👩🏼‍🦰	kvinna, rödhårig: medellång hudton
+👩🏽‍🦰	kvinna, rödhårig: medium hudton
+👩🏾‍🦰	kvinna, rödhårig: medium-mörk hudton
+👩🏿‍🦰	kvinna, rödhårig: mörk hudton
+👨‍🦱	man, lockigt hår
+👨🏻‍🦱	man, lockigt hår: lätt hudton
+👨🏼‍🦱	man, lockigt hår: medellång hudton
+👨🏽‍🦱	man, lockigt hår: medium hudton
+👨🏾‍🦱	man, lockigt hår: medium-mörk hudton
+👨🏿‍🦱	man, lockigt hår: mörk hudton
+👩‍🦱	kvinna, lockigt hår
+👩🏻‍🦱	kvinna, lockigt hår: lätt hudton
+👩🏼‍🦱	kvinna, lockigt hår: medelljus hudton
+👩🏽‍🦱	kvinna, lockigt hår: medium hudton
+👩🏾‍🦱	kvinna, lockigt hår: medium-mörk hudton
+👩🏿‍🦱	kvinna, lockigt hår: mörk hudton
+👨‍🦲	en, snart
+👨🏻‍🦲	man, skallig: lätt hudton
+👨🏼‍🦲	man, skallig: medium-lätt hudton
+👨🏽‍🦲	man, skallig: medium hudton
+👨🏾‍🦲	man, skallig: medium-mörk hudton
+👨🏿‍🦲	man, skallig: mörk hudton
+👩‍🦲	skallig kvinna
+👩🏻‍🦲	kvinna, skallig: lätt hudton
+👩🏼‍🦲	kvinna, skallig: medium-lätt hudton
+👩🏽‍🦲	kvinna, skallig: medium hudton
+👩🏾‍🦲	kvinna, skallig: medium-mörk hudton
+👩🏿‍🦲	kvinna, skallig: mörk hudton
+👨‍🦳	man, vithårig
+👨🏻‍🦳	man, vithårig: lätt hudton
+👨🏼‍🦳	man, vithårig: medellång hudton
+👨🏽‍🦳	man, vithårig: medium hudton
+👨🏾‍🦳	man, vithårig: medium-mörk hudton
+👨🏿‍🦳	man, vithårig: mörk hudton
+👩‍🦳	kvinna, vithårig
+👩🏻‍🦳	kvinna, vithårig: lätt hudton
+👩🏼‍🦳	kvinna, vithårig: medellång hudton
+👩🏽‍🦳	kvinna, vithårig: medium hudton
+👩🏾‍🦳	kvinna, vithårig: medium-mörk hudton
+👩🏿‍🦳	kvinna, vithårig: mörk hudton
+🤵	man i smoking
+🤵🏻	man i smoking: lätt hudton
+🤵🏼	man i smoking: medium-lätt hudton
+🤵🏽	man i smoking: medium hudton
+🤵🏾	man i smoking: medium-mörk hudton
+🤵🏿	man i smoking: mörk hudton
+👰	brud med slöja
+👰🏻	brud med slöja: lätt hudton
+👰🏼	brud med slöja: medium ljus hudton
+👰🏽	brud med slöja: medium hudton
+👰🏾	brud med slöja: medium-mörk hudton
+👰🏿	brud med slöja: mörk hudton
+🤰	gravid kvinna
+🤰🏻	gravid kvinna: lätt hudton
+🤰🏼	gravid kvinna: medium-lätt hudton
+🤰🏽	gravid kvinna: medium hudton
+🤰🏾	gravid kvinna: medium-mörk hudton
+🤰🏿	gravid kvinna: mörk hudton
+🤱	amning
+🤱🏻	amning: lätt hudton
+🤱🏼	amning: medel-lätt hudton
+🤱🏽	amning: medium hudton
+🤱🏾	amning: medium-mörk hudton
+🤱🏿	amning: mörk hudton
+👼	baby ängel
+👼🏻	baby ängel: lätt hudton
+👼🏼	baby ängel: medium-lätt hudton
+👼🏽	baby ängel: medium hudton
+👼🏿	baby ängel: mörk hudton
+🎅	Jultomten
+🎅🏻	Jultomten: lätt hudton
+🎅🏼	Jultomten: medellång hudton
+🎅🏽	Jultomten: medium hudton
+🎅🏾	Jultomten: medium-mörk hudton
+🎅🏿	Jultomten: mörk hudton
+🤶	Fru Claus
+🤶🏻	Fru Claus: lätt hudton
+🤶🏼	Fru Claus: medium-lätt hudton
+🤶🏽	Fru Claus: medium hudton
+🤶🏾	Fru Claus: medium-mörk hudton
+🤶🏿	Fru Claus: mörk hudton
+🦸	superhjälte
+🦸🏻	superhjälte: lätt hudton
+🦸🏼	superhjälte: medium-lätt hudton
+🦸🏽	superhjälte: medium hudton
+🦸🏾	superhjälte: medium-mörk hudton
+🦸🏿	superhjälte: mörk hudton
+🦸‍♀️	kvinna superhjälte
+🦸‍♀	kvinna superhjälte
+🦸🏻‍♀️	kvinna superhjälte: lätt hudton
+🦸🏻‍♀	kvinna superhjälte: lätt hudton
+🦸🏼‍♀️	kvinna superhjälte: medium-lätt hudton
+🦸🏼‍♀	kvinna superhjälte: medium-lätt hudton
+🦸🏽‍♀️	kvinna superhjälte: medium hudton
+🦸🏽‍♀	kvinna superhjälte: medium hudton
+🦸🏾‍♀️	kvinna superhjälte: medium-mörk hudton
+🦸🏾‍♀	kvinna superhjälte: medium-mörk hudton
+🦸🏿‍♀️	kvinna superhjälte: mörk hudton
+🦸🏿‍♀	kvinna superhjälte: mörk hudton
+🦸‍♂️	man superhjälte
+🦸‍♂	man superhjälte
+🦸🏻‍♂️	man superhjälte: lätt hudton
+🦸🏻‍♂	man superhjälte: lätt hudton
+🦸🏼‍♂️	man superhjälte: medium-lätt hudton
+🦸🏼‍♂	man superhjälte: medium-lätt hudton
+🦸🏽‍♂️	man superhjälte: medium hudton
+🦸🏽‍♂	man superhjälte: medium hudton
+🦸🏾‍♂️	man superhjälte: medium-mörk hudton
+🦸🏾‍♂	man superhjälte: medium-mörk hudton
+🦸🏿‍♂️	man superhjälte: mörk hudton
+🦸🏿‍♂	man superhjälte: mörk hudton
+🦹	supervillain
+🦹🏻	supervillain: lätt hudton
+🦹🏼	supervillain: medium-lätt hudton
+🦹🏽	supervillain: medium hudton
+🦹🏾	supervillain: medium-mörk hudton
+🦹🏿	supervillain: mörk hudton
+🦹‍♀️	kvinna supervillain
+🦹‍♀	kvinna supervillain
+🦹🏻‍♀️	kvinna supervillain: lätt hudton
+🦹🏻‍♀	kvinna supervillain: lätt hudton
+🦹🏼‍♀️	kvinna supervillain: medium-lätt hudton
+🦹🏼‍♀	kvinna supervillain: medium-lätt hudton
+🦹🏽‍♀️	kvinna supervillain: medium hudton
+🦹🏽‍♀	kvinna supervillain: medium hudton
+🦹🏾‍♀️	kvinna supervillain: medium-mörk hudton
+🦹🏾‍♀	kvinna supervillain: medium-mörk hudton
+🦹🏿‍♀️	kvinna supervillain: mörk hudton
+🦹🏿‍♀	kvinna supervillain: mörk hudton
+🦹‍♂️	man supervillain
+🦹‍♂	man supervillain
+🦹🏻‍♂️	man supervillain: lätt hudton
+🦹🏻‍♂	man supervillain: lätt hudton
+🦹🏼‍♂️	man supervillain: medium-lätt hudton
+🦹🏼‍♂	man supervillain: medium-lätt hudton
+🦹🏽‍♂️	man supervillain: medium hudton
+🦹🏽‍♂	man supervillain: medium hudton
+🦹🏾‍♂️	man supervillain: medium-mörk hudton
+🦹🏾‍♂	man supervillain: medium-mörk hudton
+🦹🏿‍♂️	man supervillain: mörk hudton
+🦹🏿‍♂	man supervillain: mörk hudton
+🧙	magiker
+🧙🏻	mage: lätt hudton
+🧙🏼	mage: medium-lätt hudton
+🧙🏽	mage: medium hudton
+🧙🏾	mage: medium-mörk hudton
+🧙🏿	mage: mörk hudton
+🧙‍♀️	kvinna mage
+🧙‍♀	kvinna mage
+🧙🏻‍♀️	kvinna mage: lätt hudton
+🧙🏻‍♀	kvinna mage: lätt hudton
+🧙🏼‍♀️	kvinna mage: medium-lätt hudton
+🧙🏼‍♀	kvinna mage: medium-lätt hudton
+🧙🏽‍♀️	kvinna mage: medium hudton
+🧙🏽‍♀	kvinna mage: medium hudton
+🧙🏾‍♀️	kvinna mage: medium-mörk hudton
+🧙🏾‍♀	kvinna mage: medium-mörk hudton
+🧙🏿‍♀️	kvinna mage: mörk hudton
+🧙🏿‍♀	kvinna mage: mörk hudton
+🧙‍♂️	man mage
+🧙‍♂	man mage
+🧙🏻‍♂️	manmage: lätt hudton
+🧙🏻‍♂	manmage: lätt hudton
+🧙🏼‍♂️	manmage: medium-lätt hudton
+🧙🏼‍♂	manmage: medium-lätt hudton
+🧙🏽‍♂️	manmage: medium hudton
+🧙🏽‍♂	manmage: medium hudton
+🧙🏾‍♂️	manmage: medium-mörk hudton
+🧙🏾‍♂	manmage: medium-mörk hudton
+🧙🏿‍♂️	manmage: mörk hudton
+🧙🏿‍♂	manmage: mörk hudton
+🧚	fe-
+🧚🏻	älva: lätt hudton
+🧚🏼	älva: medellång hudton
+🧚🏽	älva: medium hudton
+🧚🏾	älva: medium-mörk hudton
+🧚🏿	älva: mörk hudton
+🧚‍♀️	kvinna fe
+🧚‍♀	kvinna fe
+🧚🏻‍♀️	kvinna fe: lätt hudton
+🧚🏻‍♀	kvinna fe: lätt hudton
+🧚🏼‍♀️	kvinna fe: medium-lätt hudton
+🧚🏼‍♀	kvinna fe: medium-lätt hudton
+🧚🏽‍♀️	kvinna fe: medium hudton
+🧚🏽‍♀	kvinna fe: medium hudton
+🧚🏾‍♀️	kvinna fe: medium-mörk hudton
+🧚🏾‍♀	kvinna fe: medium-mörk hudton
+🧚🏿‍♀️	kvinna fe: mörk hudton
+🧚🏿‍♀	kvinna fe: mörk hudton
+🧚‍♂️	man älva
+🧚‍♂	man älva
+🧚🏻‍♂️	manfe: lätt hudton
+🧚🏻‍♂	manfe: lätt hudton
+🧚🏼‍♂️	manfå: medium-lätt hudton
+🧚🏼‍♂	manfå: medium-lätt hudton
+🧚🏽‍♂️	manfå: medium hudton
+🧚🏽‍♂	manfå: medium hudton
+🧚🏾‍♂️	manfå: medium-mörk hudton
+🧚🏾‍♂	manfå: medium-mörk hudton
+🧚🏿‍♂️	manfå: mörk hudton
+🧚🏿‍♂	manfå: mörk hudton
+🧛	vampyr
+🧛🏻	vampyr: lätt hudton
+🧛🏼	vampyr: medellång hudton
+🧛🏽	vampyr: medium hudton
+🧛🏾	vampyr: medium-mörk hudton
+🧛🏿	vampyr: mörk hudton
+🧛‍♀️	kvinna vampyr
+🧛‍♀	kvinna vampyr
+🧛🏻‍♀️	kvinna vampyr: lätt hudton
+🧛🏻‍♀	kvinna vampyr: lätt hudton
+🧛🏼‍♀️	kvinna vampyr: medium-lätt hudton
+🧛🏼‍♀	kvinna vampyr: medium-lätt hudton
+🧛🏽‍♀️	kvinna vampyr: medium hudton
+🧛🏽‍♀	kvinna vampyr: medium hudton
+🧛🏾‍♀️	kvinna vampyr: medium-mörk hudton
+🧛🏾‍♀	kvinna vampyr: medium-mörk hudton
+🧛🏿‍♀️	kvinna vampyr: mörk hudton
+🧛🏿‍♀	kvinna vampyr: mörk hudton
+🧛‍♂️	man vampyr
+🧛‍♂	man vampyr
+🧛🏻‍♂️	man vampyr: lätt hudton
+🧛🏻‍♂	man vampyr: lätt hudton
+🧛🏼‍♂️	man vampyr: medium-lätt hudton
+🧛🏼‍♂	man vampyr: medium-lätt hudton
+🧛🏽‍♂️	man vampyr: medium hudton
+🧛🏽‍♂	man vampyr: medium hudton
+🧛🏾‍♂️	man vampyr: medium-mörk hudton
+🧛🏾‍♂	man vampyr: medium-mörk hudton
+🧛🏿‍♂️	man vampyr: mörk hudton
+🧛🏿‍♂	man vampyr: mörk hudton
+🧜	merperson
+🧜🏻	merperson: lätt hudton
+🧜🏼	merperson: medium-lätt hudton
+🧜🏽	merperson: medium hudton
+🧜🏾	merperson: medium-mörk hudton
+🧜🏿	merperson: mörk hudton
+🧜‍♀️	sjöjungfru
+🧜‍♀	sjöjungfru
+🧜🏻‍♀️	sjöjungfru: lätt hudton
+🧜🏻‍♀	sjöjungfru: lätt hudton
+🧜🏼‍♀️	sjöjungfru: medel-lätt hudton
+🧜🏼‍♀	sjöjungfru: medel-lätt hudton
+🧜🏽‍♀️	sjöjungfru: medelhudton
+🧜🏽‍♀	sjöjungfru: medelhudton
+🧜🏾‍♀️	sjöjungfru: medel-mörk hudton
+🧜🏾‍♀	sjöjungfru: medel-mörk hudton
+🧜🏿‍♀️	sjöjungfru: mörk hudton
+🧜🏿‍♀	sjöjungfru: mörk hudton
+🧜‍♂️	merman
+🧜‍♂	merman
+🧜🏻‍♂️	herre: lätt hudton
+🧜🏻‍♂	herre: lätt hudton
+🧜🏼‍♂️	merman: medium-lätt hudton
+🧜🏼‍♂	merman: medium-lätt hudton
+🧜🏽‍♂️	merman: medium hudton
+🧜🏽‍♂	merman: medium hudton
+🧜🏾‍♂️	merman: medium-mörk hudton
+🧜🏾‍♂	merman: medium-mörk hudton
+🧜🏿‍♂️	herre: mörk hudton
+🧜🏿‍♂	herre: mörk hudton
+🧝	älva
+🧝🏻	älva: lätt hudton
+🧝🏼	älva: medium-lätt hudton
+🧝🏽	älva: medium hudton
+🧝🏾	älva: medium-mörk hudton
+🧝🏿	älva: mörk hudton
+🧝‍♀️	kvinna älva
+🧝‍♀	kvinna älva
+🧝🏻‍♀️	kvinnaälva: lätt hudton
+🧝🏻‍♀	kvinnaälva: lätt hudton
+🧝🏼‍♀️	kvinnaälva: medium-lätt hudton
+🧝🏼‍♀	kvinnaälva: medium-lätt hudton
+🧝🏽‍♀️	kvinnaälva: medium hudton
+🧝🏽‍♀	kvinnaälva: medium hudton
+🧝🏾‍♀️	kvinnaälva: medium-mörk hudton
+🧝🏾‍♀	kvinnaälva: medium-mörk hudton
+🧝🏿‍♀️	kvinnaälva: mörk hudton
+🧝🏿‍♀	kvinnaälva: mörk hudton
+🧝‍♂️	man elva
+🧝‍♂	man elva
+🧝🏻‍♂️	manälva: lätt hudton
+🧝🏻‍♂	manälva: lätt hudton
+🧝🏼‍♂️	manälva: medium-lätt hudton
+🧝🏼‍♂	manälva: medium-lätt hudton
+🧝🏽‍♂️	manälva: medium hudton
+🧝🏽‍♂	manälva: medium hudton
+🧝🏾‍♂️	manälva: medium-mörk hudton
+🧝🏾‍♂	manälva: medium-mörk hudton
+🧝🏿‍♂️	manälva: mörk hudton
+🧝🏿‍♂	manälva: mörk hudton
+🧞	ande
+🧞‍♀️	kvinna genie
+🧞‍♀	kvinna genie
+🧞‍♂️	du tycker om
+🧞‍♂	du tycker om
+🧟	zombie
+🧟‍♀️	kvinna zombie
+🧟‍♀	kvinna zombie
+🧟‍♂️	man zombie
+🧟‍♂	man zombie
+🙍	person som rynkar
+🙍🏻	person rynkar: lätt hudton
+🙍🏼	person rynkar: medium-lätt hudton
+🙍🏽	person rynkar: medium hudton
+🙍🏾	person rynkar: medel-mörk hudton
+🙍🏿	person rynkar: mörk hudton
+🙍‍♂️	man rynkar
+🙍‍♂	man rynkar
+🙍🏻‍♂️	man rynkar: lätt hudton
+🙍🏻‍♂	man rynkar: lätt hudton
+🙍🏼‍♂️	man rynkar: medium-lätt hudton
+🙍🏼‍♂	man rynkar: medium-lätt hudton
+🙍🏽‍♂️	man rynkar: medium hudton
+🙍🏽‍♂	man rynkar: medium hudton
+🙍🏾‍♂️	man rynkar: medel-mörk hudton
+🙍🏾‍♂	man rynkar: medel-mörk hudton
+🙍🏿‍♂️	man rynkar: mörk hudton
+🙍🏿‍♂	man rynkar: mörk hudton
+🙍‍♀️	kvinna rynkar
+🙍‍♀	kvinna rynkar
+🙍🏻‍♀️	kvinna rynkar: lätt hudton
+🙍🏻‍♀	kvinna rynkar: lätt hudton
+🙍🏼‍♀️	kvinna rynkar: medium-lätt hudton
+🙍🏼‍♀	kvinna rynkar: medium-lätt hudton
+🙍🏽‍♀️	kvinna rynkar: medium hudton
+🙍🏽‍♀	kvinna rynkar: medium hudton
+🙍🏾‍♀️	kvinna rynkar: medium-mörk hudton
+🙍🏾‍♀	kvinna rynkar: medium-mörk hudton
+🙍🏿‍♀️	kvinna rynkar: mörk hudton
+🙍🏿‍♀	kvinna rynkar: mörk hudton
+🙎	person pouting
+🙎🏻	person pouting: lätt hudton
+🙎🏼	person pouting: medium-lätt hudton
+🙎🏽	person pouting: medium hudton
+🙎🏾	person pouting: medium-mörk hudton
+🙎🏿	person pouting: mörk hudton
+🙎‍♂️	man pouting
+🙎‍♂	man pouting
+🙎🏻‍♂️	man pouting: lätt hudton
+🙎🏻‍♂	man pouting: lätt hudton
+🙎🏼‍♂️	man pouting: medium-lätt hudton
+🙎🏼‍♂	man pouting: medium-lätt hudton
+🙎🏽‍♂️	man pouting: medium hudton
+🙎🏽‍♂	man pouting: medium hudton
+🙎🏾‍♂️	man pouting: medium-mörk hudton
+🙎🏾‍♂	man pouting: medium-mörk hudton
+🙎🏿‍♂️	man pouting: mörk hudton
+🙎🏿‍♂	man pouting: mörk hudton
+🙎‍♀️	kvinna pouting
+🙎‍♀	kvinna pouting
+🙎🏻‍♀️	kvinna pouting: lätt hudton
+🙎🏻‍♀	kvinna pouting: lätt hudton
+🙎🏼‍♀️	kvinna pouting: medium-lätt hudton
+🙎🏼‍♀	kvinna pouting: medium-lätt hudton
+🙎🏽‍♀️	kvinna pouting: medium hudton
+🙎🏽‍♀	kvinna pouting: medium hudton
+🙎🏾‍♀️	kvinna pouting: medium-mörk hudton
+🙎🏾‍♀	kvinna pouting: medium-mörk hudton
+🙎🏿‍♀️	kvinna pouting: mörk hudton
+🙎🏿‍♀	kvinna pouting: mörk hudton
+🙅	person som gester NO
+🙅🏻	person som gester NO: lätt hudton
+🙅🏼	person som gester NEJ: medellång hudton
+🙅🏽	person som gester NEJ: medium hudton
+🙅🏾	person som gester NEJ: medium-mörk hudton
+🙅🏿	person som gester NEJ: mörk hudton
+🙅‍♂️	man gestikulerande NEJ
+🙅‍♂	man gestikulerande NEJ
+🙅🏻‍♂️	man gestikulerar NEJ: lätt hudton
+🙅🏻‍♂	man gestikulerar NEJ: lätt hudton
+🙅🏼‍♂️	man gestikulerar NEJ: medium-lätt hudton
+🙅🏼‍♂	man gestikulerar NEJ: medium-lätt hudton
+🙅🏽‍♂️	man gestikulerar NEJ: medium hudton
+🙅🏽‍♂	man gestikulerar NEJ: medium hudton
+🙅🏾‍♂️	man gestikulerar NEJ: medium-mörk hudton
+🙅🏾‍♂	man gestikulerar NEJ: medium-mörk hudton
+🙅🏿‍♂️	man gestikulerar NEJ: mörk hudton
+🙅🏿‍♂	man gestikulerar NEJ: mörk hudton
+🙅‍♀️	kvinna gester NO
+🙅‍♀	kvinna gester NO
+🙅🏻‍♀️	kvinna gester NO: lätt hudton
+🙅🏻‍♀	kvinna gester NO: lätt hudton
+🙅🏼‍♀️	kvinna gester NO: medelhårig hudton
+🙅🏼‍♀	kvinna gester NO: medelhårig hudton
+🙅🏽‍♀️	kvinna gester NO: medium hudton
+🙅🏽‍♀	kvinna gester NO: medium hudton
+🙅🏾‍♀️	kvinna gester NEJ: medium-mörk hudton
+🙅🏾‍♀	kvinna gester NEJ: medium-mörk hudton
+🙅🏿‍♀️	kvinna gester NO: mörk hudton
+🙅🏿‍♀	kvinna gester NO: mörk hudton
+🙆	person gestikulerande OK
+🙆🏻	person gestikulerande OK: lätt hudton
+🙆🏼	person gestikulerande OK: medium-lätt hudton
+🙆🏽	person gestikulerande OK: medium hudton
+🙆🏾	person gestikulerande OK: medium-mörk hudton
+🙆🏿	person gestikulerande OK: mörk hudton
+🙆‍♂️	man gestikulerande OK
+🙆‍♂	man gestikulerande OK
+🙆🏻‍♂️	man gestikulerande OK: lätt hudton
+🙆🏻‍♂	man gestikulerande OK: lätt hudton
+🙆🏼‍♂️	man gestikulerande OK: medium-lätt hudton
+🙆🏼‍♂	man gestikulerande OK: medium-lätt hudton
+🙆🏽‍♂️	man gestikulerande OK: medium hudton
+🙆🏽‍♂	man gestikulerande OK: medium hudton
+🙆🏾‍♂️	man gestikulerande OK: medium-mörk hudton
+🙆🏾‍♂	man gestikulerande OK: medium-mörk hudton
+🙆🏿‍♂️	man gestikulerande OK: mörk hudton
+🙆🏿‍♂	man gestikulerande OK: mörk hudton
+🙆‍♀️	kvinna gör en gest
+🙆‍♀	kvinna gör en gest
+🙆🏻‍♀️	kvinna gestikulerande OK: lätt hudton
+🙆🏻‍♀	kvinna gestikulerande OK: lätt hudton
+🙆🏼‍♀️	kvinna gestikulerande OK: medium-ljus hudton
+🙆🏼‍♀	kvinna gestikulerande OK: medium-ljus hudton
+🙆🏽‍♀️	kvinna gestikulerande OK: medium hudton
+🙆🏽‍♀	kvinna gestikulerande OK: medium hudton
+🙆🏾‍♀️	kvinna gestikulerande OK: medium-mörk hudton
+🙆🏾‍♀	kvinna gestikulerande OK: medium-mörk hudton
+🙆🏿‍♀️	kvinna gestikulerande OK: mörk hudton
+🙆🏿‍♀	kvinna gestikulerande OK: mörk hudton
+💁	person som tippar handen
+💁🏻	person som tippar hand: lätt hudton
+💁🏼	person som tippar hand: medellång hudton
+💁🏽	person som tippar hand: medium hudton
+💁🏾	person som tippar hand: medium-mörk hudton
+💁🏿	person som tippar hand: mörk hudton
+💁‍♂️	man tippar handen
+💁‍♂	man tippar handen
+💁🏻‍♂️	man tippar hand: lätt hudton
+💁🏻‍♂	man tippar hand: lätt hudton
+💁🏼‍♂️	man tippande hand: medium-lätt hudton
+💁🏼‍♂	man tippande hand: medium-lätt hudton
+💁🏽‍♂️	man tippande hand: medium hudton
+💁🏽‍♂	man tippande hand: medium hudton
+💁🏾‍♂️	man tippande hand: medium-mörk hudton
+💁🏾‍♂	man tippande hand: medium-mörk hudton
+💁🏿‍♂️	man tippande hand: mörk hudton
+💁🏿‍♂	man tippande hand: mörk hudton
+💁‍♀️	kvinna tippa hand
+💁‍♀	kvinna tippa hand
+💁🏻‍♀️	kvinna som tippar hand: lätt hudton
+💁🏻‍♀	kvinna som tippar hand: lätt hudton
+💁🏼‍♀️	kvinna som tippar hand: medium-lätt hudton
+💁🏼‍♀	kvinna som tippar hand: medium-lätt hudton
+💁🏽‍♀️	kvinna som tippar hand: medium hudton
+💁🏽‍♀	kvinna som tippar hand: medium hudton
+💁🏾‍♀️	kvinna som tippar hand: medium-mörk hudton
+💁🏾‍♀	kvinna som tippar hand: medium-mörk hudton
+💁🏿‍♀️	kvinna som tippar hand: mörk hudton
+💁🏿‍♀	kvinna som tippar hand: mörk hudton
+🙋	person höja handen
+🙋🏻	person som höjer handen: lätt hudton
+🙋🏼	person som lyfter upp handen: medelljus hudton
+🙋🏽	person som lyfter upp handen: medium hudton
+🙋🏾	person som lyfter upp handen: medel-mörk hudton
+🙋🏿	person lyfta hand: mörk hudton
+🙋‍♂️	man höjer handen
+🙋‍♂	man höjer handen
+🙋🏻‍♂️	man höjer handen: lätt hudton
+🙋🏻‍♂	man höjer handen: lätt hudton
+🙋🏼‍♂️	man höjer handen: medium-lätt hudton
+🙋🏼‍♂	man höjer handen: medium-lätt hudton
+🙋🏽‍♂️	man höjer handen: medium hudton
+🙋🏽‍♂	man höjer handen: medium hudton
+🙋🏾‍♂️	man höjer handen: medel-mörk hudton
+🙋🏾‍♂	man höjer handen: medel-mörk hudton
+🙋🏿‍♂️	man höjer handen: mörk hudton
+🙋🏿‍♂	man höjer handen: mörk hudton
+🙋‍♀️	kvinna lyfta hand
+🙋‍♀	kvinna lyfta hand
+🙋🏻‍♀️	kvinna lyfta hand: lätt hudton
+🙋🏻‍♀	kvinna lyfta hand: lätt hudton
+🙋🏼‍♀️	kvinna lyfta handen: medium-lätt hudton
+🙋🏼‍♀	kvinna lyfta handen: medium-lätt hudton
+🙋🏽‍♀️	kvinna lyfta hand: medium hudton
+🙋🏽‍♀	kvinna lyfta hand: medium hudton
+🙋🏾‍♀️	kvinna lyfta hand: medel-mörk hudton
+🙋🏾‍♀	kvinna lyfta hand: medel-mörk hudton
+🙋🏿‍♀️	kvinna lyfta hand: mörk hudton
+🙋🏿‍♀	kvinna lyfta hand: mörk hudton
+🙇	person böjning
+🙇🏻	böjning av person: lätt hudton
+🙇🏼	böjning av person: medellång hudton
+🙇🏽	böjning av person: medium hudton
+🙇🏾	böjning av person: medium-mörk hudton
+🙇🏿	person böjning: mörk hudton
+🙇‍♂️	man bugar
+🙇‍♂	man bugar
+🙇🏻‍♂️	man bugar: lätt hudton
+🙇🏻‍♂	man bugar: lätt hudton
+🙇🏼‍♂️	man böjning: medium-lätt hudton
+🙇🏼‍♂	man böjning: medium-lätt hudton
+🙇🏽‍♂️	man böjning: medium hudton
+🙇🏽‍♂	man böjning: medium hudton
+🙇🏾‍♂️	man böjning: medium-mörk hudton
+🙇🏾‍♂	man böjning: medium-mörk hudton
+🙇🏿‍♂️	man bugar: mörk hudton
+🙇🏿‍♂	man bugar: mörk hudton
+🙇‍♀️	kvinna böjer sig
+🙇‍♀	kvinna böjer sig
+🙇🏻‍♀️	kvinna böjning: lätt hudton
+🙇🏻‍♀	kvinna böjning: lätt hudton
+🙇🏼‍♀️	kvinna böjning: medium-lätt hudton
+🙇🏼‍♀	kvinna böjning: medium-lätt hudton
+🙇🏽‍♀️	kvinna böjning: medium hudton
+🙇🏽‍♀	kvinna böjning: medium hudton
+🙇🏾‍♀️	kvinna böjning: medium-mörk hudton
+🙇🏾‍♀	kvinna böjning: medium-mörk hudton
+🙇🏿‍♀️	kvinna böjning: mörk hudton
+🙇🏿‍♀	kvinna böjning: mörk hudton
+🤦	person facepalming
+🤦🏻	person facepalming: lätt hudton
+🤦🏼	person facepalming: medium-lätt hudton
+🤦🏽	person facepalming: medium hudton
+🤦🏾	person facepalming: medium-mörk hudton
+🤦🏿	person facepalming: mörk hudton
+🤦‍♂️	man facepalming
+🤦‍♂	man facepalming
+🤦🏻‍♂️	man facepalming: lätt hudton
+🤦🏻‍♂	man facepalming: lätt hudton
+🤦🏼‍♂️	man ansiktspalmande: medellång hudton
+🤦🏼‍♂	man ansiktspalmande: medellång hudton
+🤦🏽‍♂️	man ansiktspalming: medium hudton
+🤦🏽‍♂	man ansiktspalming: medium hudton
+🤦🏾‍♂️	man ansiktspalmande: medium-mörk hudton
+🤦🏾‍♂	man ansiktspalmande: medium-mörk hudton
+🤦🏿‍♂️	man facepalming: mörk hudton
+🤦🏿‍♂	man facepalming: mörk hudton
+🤦‍♀️	kvinna facepalming
+🤦‍♀	kvinna facepalming
+🤦🏻‍♀️	kvinna facepalming: lätt hudton
+🤦🏻‍♀	kvinna facepalming: lätt hudton
+🤦🏼‍♀️	kvinna facepalming: medium-lätt hudton
+🤦🏼‍♀	kvinna facepalming: medium-lätt hudton
+🤦🏽‍♀️	kvinna facepalming: medium hudton
+🤦🏽‍♀	kvinna facepalming: medium hudton
+🤦🏾‍♀️	kvinna facepalming: medium-mörk hudton
+🤦🏾‍♀	kvinna facepalming: medium-mörk hudton
+🤦🏿‍♀️	kvinna facepalming: mörk hudton
+🤦🏿‍♀	kvinna facepalming: mörk hudton
+🤷	person som rycker upp
+🤷🏻	person som rycker på sig: lätt hudton
+🤷🏼	person som rycker på axlarna: medellång hudton
+🤷🏽	person som rycker på axlarna: medium hudton
+🤷🏾	person som rycker på axlarna: medium-mörk hudton
+🤷🏿	person som rycker på sig: mörk hudton
+🤷‍♂️	man rycker upp
+🤷‍♂	man rycker upp
+🤷🏻‍♂️	man rycker på: lätt hudton
+🤷🏻‍♂	man rycker på: lätt hudton
+🤷🏼‍♂️	man rycker på axlarna: medellång hudton
+🤷🏼‍♂	man rycker på axlarna: medellång hudton
+🤷🏽‍♂️	man rycker på axlarna: medium hudton
+🤷🏽‍♂	man rycker på axlarna: medium hudton
+🤷🏾‍♂️	man rycker på sig: medel-mörk hudton
+🤷🏾‍♂	man rycker på sig: medel-mörk hudton
+🤷🏿‍♂️	man rycker på: mörk hudton
+🤷🏿‍♂	man rycker på: mörk hudton
+🤷‍♀️	kvinna rycka upp
+🤷‍♀	kvinna rycka upp
+🤷🏻‍♀️	kvinna som rycker på sig: lätt hudton
+🤷🏻‍♀	kvinna som rycker på sig: lätt hudton
+🤷🏼‍♀️	kvinna som rycker på axlarna: medellång hudton
+🤷🏼‍♀	kvinna som rycker på axlarna: medellång hudton
+🤷🏽‍♀️	kvinna som rycker på axlarna: medium hudton
+🤷🏽‍♀	kvinna som rycker på axlarna: medium hudton
+🤷🏾‍♀	kvinna som rycker på axlarna: medium-mörk hudton
+🤷🏿‍♀️	kvinna som rycker på sig: mörk hudton
+🤷🏿‍♀	kvinna som rycker på sig: mörk hudton
+💆	person som får massage
+💆🏻	person som får massage: lätt hudton
+💆🏼	person som får massage: medium-lätt hudton
+💆🏽	person som får massage: medium hudton
+💆🏾	person som får massage: medium-mörk hudton
+💆🏿	person som får massage: mörk hudton
+💆‍♂️	man får massage
+💆‍♂	man får massage
+💆🏻‍♂️	man får massage: lätt hudton
+💆🏻‍♂	man får massage: lätt hudton
+💆🏼‍♂️	man får massage: medium-lätt hudton
+💆🏼‍♂	man får massage: medium-lätt hudton
+💆🏽‍♂️	man får massage: medium hudton
+💆🏽‍♂	man får massage: medium hudton
+💆🏾‍♂️	man får massage: medium-mörk hudton
+💆🏾‍♂	man får massage: medium-mörk hudton
+💆🏿‍♂️	man får massage: mörk hudton
+💆🏿‍♂	man får massage: mörk hudton
+💆‍♀️	kvinna får massage
+💆‍♀	kvinna får massage
+💆🏻‍♀️	kvinna får massage: lätt hudton
+💆🏻‍♀	kvinna får massage: lätt hudton
+💆🏼‍♀️	kvinna får massage: medium-lätt hudton
+💆🏼‍♀	kvinna får massage: medium-lätt hudton
+💆🏽‍♀️	kvinna får massage: medium hudton
+💆🏽‍♀	kvinna får massage: medium hudton
+💆🏾‍♀️	kvinna får massage: medium-mörk hudton
+💆🏾‍♀	kvinna får massage: medium-mörk hudton
+💆🏿‍♀️	kvinna får massage: mörk hudton
+💆🏿‍♀	kvinna får massage: mörk hudton
+💇	person som får frisyr
+💇🏻	person som får frisyr: lätt hudton
+💇🏼	person som får frisyr: medellång hudton
+💇🏽	person som får frisyr: medium hudton
+💇🏾	person som får frisyr: medium-mörk hudton
+💇🏿	person som får frisyr: mörk hudton
+💇‍♂️	man får frisyr
+💇‍♂	man får frisyr
+💇🏻‍♂️	man får frisyr: lätt hudton
+💇🏻‍♂	man får frisyr: lätt hudton
+💇🏼‍♂️	man får frisyr: medellång hudton
+💇🏼‍♂	man får frisyr: medellång hudton
+💇🏽‍♂️	man får frisyr: medium hudton
+💇🏽‍♂	man får frisyr: medium hudton
+💇🏾‍♂️	man får frisyr: medium-mörk hudton
+💇🏾‍♂	man får frisyr: medium-mörk hudton
+💇🏿‍♂️	man får frisyr: mörk hudton
+💇🏿‍♂	man får frisyr: mörk hudton
+💇‍♀️	kvinna får frisyr
+💇‍♀	kvinna får frisyr
+💇🏻‍♀️	kvinna får frisyr: lätt hudton
+💇🏻‍♀	kvinna får frisyr: lätt hudton
+💇🏼‍♀️	kvinna som får frisyr: medellång hudton
+💇🏼‍♀	kvinna som får frisyr: medellång hudton
+💇🏽‍♀️	kvinna får frisyr: medium hudton
+💇🏽‍♀	kvinna får frisyr: medium hudton
+💇🏾‍♀️	kvinna får frisyr: medel-mörk hudton
+💇🏾‍♀	kvinna får frisyr: medel-mörk hudton
+💇🏿‍♀️	kvinna får frisyr: mörk hudton
+💇🏿‍♀	kvinna får frisyr: mörk hudton
+🚶	person promenader
+🚶🏻	person som går: lätt hudton
+🚶🏼	person promenader: medium-lätt hudton
+🚶🏽	person promenader: medium hudton
+🚶🏾	person promenader: medium-mörk hudton
+🚶🏿	person som går: mörk hudton
+🚶‍♂️	man går
+🚶‍♂	man går
+🚶🏻‍♂️	man går: lätt hudton
+🚶🏻‍♂	man går: lätt hudton
+🚶🏼‍♂️	man går: medellång hudton
+🚶🏼‍♂	man går: medellång hudton
+🚶🏽‍♂️	man går: medium hudton
+🚶🏽‍♂	man går: medium hudton
+🚶🏾‍♂️	man går: medium-mörk hudton
+🚶🏾‍♂	man går: medium-mörk hudton
+🚶🏿‍♂️	man går: mörk hudton
+🚶🏿‍♂	man går: mörk hudton
+🚶‍♀️	kvinna går
+🚶‍♀	kvinna går
+🚶🏻‍♀️	kvinna går: lätt hudton
+🚶🏻‍♀	kvinna går: lätt hudton
+🚶🏼‍♀️	kvinna går: medium-lätt hudton
+🚶🏼‍♀	kvinna går: medium-lätt hudton
+🚶🏽‍♀️	kvinna går: medium hudton
+🚶🏽‍♀	kvinna går: medium hudton
+🚶🏾‍♀️	kvinna går: medium-mörk hudton
+🚶🏾‍♀	kvinna går: medium-mörk hudton
+🚶🏿‍♀️	kvinna går: mörk hudton
+🚶🏿‍♀	kvinna går: mörk hudton
+🏃	person springer
+🏃🏻	person kör: lätt hudton
+🏃🏼	person som kör: medium-lätt hudton
+🏃🏽	person som kör: medium hudton
+🏃🏾	person som kör: medium-mörk hudton
+🏃🏿	person kör: mörk hudton
+🏃‍♂️	man springer
+🏃‍♂	man springer
+🏃🏻‍♂️	man kör: lätt hudton
+🏃🏻‍♂	man kör: lätt hudton
+🏃🏼‍♂️	man kör: medium-lätt hudton
+🏃🏼‍♂	man kör: medium-lätt hudton
+🏃🏽‍♂️	man kör: medium hudton
+🏃🏽‍♂	man kör: medium hudton
+🏃🏾‍♂️	man kör: medium-mörk hudton
+🏃🏾‍♂	man kör: medium-mörk hudton
+🏃🏿‍♂️	man kör: mörk hudton
+🏃🏿‍♂	man kör: mörk hudton
+🏃‍♀️	kvinna springer
+🏃‍♀	kvinna springer
+🏃🏻‍♀️	kvinna kör: lätt hudton
+🏃🏻‍♀	kvinna kör: lätt hudton
+🏃🏼‍♀️	kvinna kör: medium-lätt hudton
+🏃🏼‍♀	kvinna kör: medium-lätt hudton
+🏃🏽‍♀️	kvinna kör: medium hudton
+🏃🏽‍♀	kvinna kör: medium hudton
+🏃🏾‍♀️	kvinna kör: medium-mörk hudton
+🏃🏾‍♀	kvinna kör: medium-mörk hudton
+🏃🏿‍♀️	kvinna kör: mörk hudton
+🏃🏿‍♀	kvinna kör: mörk hudton
+💃	kvinnadans
+💃🏻	kvinnodans: lätt hudton
+💃🏼	kvinnodans: medium-lätt hudton
+💃🏽	kvinnodans: medium hudton
+💃🏾	kvinnodans: medium-mörk hudton
+💃🏿	kvinnodans: mörk hudton
+🕺	man dansar
+🕺🏻	man dans: lätt hudton
+🕺🏼	mandans: medium-lätt hudton
+🕺🏽	mandans: medium hudton
+🕺🏾	mandans: medium-mörk hudton
+🕺🏿	man dans: mörk hudton
+👯	människor med kaninöron
+👯‍♂️	män med kaninöron
+👯‍♂	män med kaninöron
+👯‍♀️	kvinnor med kaninöron
+👯‍♀	kvinnor med kaninöron
+🧖	person i ångande rum
+🧖🏻	person i ångande rum: lätt hudton
+🧖🏼	person i ångande rum: medelljus hudton
+🧖🏽	person i ångande rum: medium hudton
+🧖🏾	person i ångande rum: medium-mörk hudton
+🧖🏿	person i ångande rum: mörk hudton
+🧖‍♀️	kvinna i ångande rum
+🧖‍♀	kvinna i ångande rum
+🧖🏻‍♀️	kvinna i ångande rum: lätt hudton
+🧖🏻‍♀	kvinna i ångande rum: lätt hudton
+🧖🏼‍♀️	kvinna i ångande rum: medelljus hudton
+🧖🏼‍♀	kvinna i ångande rum: medelljus hudton
+🧖🏽‍♀️	kvinna i ångande rum: medium hudton
+🧖🏽‍♀	kvinna i ångande rum: medium hudton
+🧖🏾‍♀️	kvinna i ångande rum: medium-mörk hudton
+🧖🏾‍♀	kvinna i ångande rum: medium-mörk hudton
+🧖🏿‍♀️	kvinna i ångande rum: mörk hudton
+🧖🏿‍♀	kvinna i ångande rum: mörk hudton
+🧖‍♂️	man i ångande rum
+🧖‍♂	man i ångande rum
+🧖🏻‍♂️	man i ångande rum: lätt hudton
+🧖🏻‍♂	man i ångande rum: lätt hudton
+🧖🏼‍♂️	man i ångande rum: medelljus hudton
+🧖🏼‍♂	man i ångande rum: medelljus hudton
+🧖🏽‍♂️	man i ångande rum: medium hudton
+🧖🏽‍♂	man i ångande rum: medium hudton
+🧖🏾‍♂️	man i ångande rum: medium-mörk hudton
+🧖🏾‍♂	man i ångande rum: medium-mörk hudton
+🧖🏿‍♂️	man i ångande rum: mörk hudton
+🧖🏿‍♂	man i ångande rum: mörk hudton
+🧗	person klättring
+🧗🏻	person klättring: lätt hudton
+🧗🏼	person klättring: medium-lätt hudton
+🧗🏽	person klättring: medium hudton
+🧗🏾	person klättring: medium-mörk hudton
+🧗🏿	person klättring: mörk hudton
+🧗‍♀️	kvinna klättring
+🧗‍♀	kvinna klättring
+🧗🏻‍♀️	kvinna klättring: lätt hudton
+🧗🏻‍♀	kvinna klättring: lätt hudton
+🧗🏼‍♀️	kvinna klättring: medium-lätt hudton
+🧗🏼‍♀	kvinna klättring: medium-lätt hudton
+🧗🏽‍♀️	kvinna klättring: medium hudton
+🧗🏽‍♀	kvinna klättring: medium hudton
+🧗🏾‍♀️	kvinna klättring: medium-mörk hudton
+🧗🏾‍♀	kvinna klättring: medium-mörk hudton
+🧗🏿‍♀️	kvinna klättring: mörk hudton
+🧗🏿‍♀	kvinna klättring: mörk hudton
+🧗‍♂️	man klättrar
+🧗‍♂	man klättrar
+🧗🏻‍♂️	man klättring: lätt hudton
+🧗🏻‍♂	man klättring: lätt hudton
+🧗🏼‍♂️	man klättring: medium-lätt hudton
+🧗🏼‍♂	man klättring: medium-lätt hudton
+🧗🏽‍♂️	man klättring: medium hudton
+🧗🏽‍♂	man klättring: medium hudton
+🧗🏾‍♂️	man klättrar: medium-mörk hudton
+🧗🏾‍♂	man klättrar: medium-mörk hudton
+🧗🏿‍♂️	man klättring: mörk hudton
+🧗🏿‍♂	man klättring: mörk hudton
+🧘	person i lotusställning
+🧘🏻	person i lotusläge: lätt hudton
+🧘🏼	person i lotusläge: medium-lätt hudton
+🧘🏽	person i lotusställning: medium hudton
+🧘🏾	person i lotusposition: medium-mörk hudton
+🧘🏿	person i lotusställning: mörk hudton
+🧘‍♀️	kvinna i lotusställning
+🧘‍♀	kvinna i lotusställning
+🧘🏻‍♀️	kvinna i lotusställning: lätt hudton
+🧘🏻‍♀	kvinna i lotusställning: lätt hudton
+🧘🏼‍♀️	kvinna i lotusposition: medium-ljus hudton
+🧘🏼‍♀	kvinna i lotusposition: medium-ljus hudton
+🧘🏽‍♀️	kvinna i lotusställning: medium hudton
+🧘🏽‍♀	kvinna i lotusställning: medium hudton
+🧘🏾‍♀️	kvinna i lotusläge: medium-mörk hudton
+🧘🏾‍♀	kvinna i lotusläge: medium-mörk hudton
+🧘🏿‍♀️	kvinna i lotusställning: mörk hudton
+🧘🏿‍♀	kvinna i lotusställning: mörk hudton
+🧘‍♂️	man i lotusställning
+🧘‍♂	man i lotusställning
+🧘🏻‍♂️	man i lotusposition: lätt hudton
+🧘🏻‍♂	man i lotusposition: lätt hudton
+🧘🏼‍♂️	man i lotusläge: medium-lätt hudton
+🧘🏼‍♂	man i lotusläge: medium-lätt hudton
+🧘🏽‍♂️	man i lotusposition: medium hudton
+🧘🏽‍♂	man i lotusposition: medium hudton
+🧘🏾‍♂️	man i lotusläge: medium-mörk hudton
+🧘🏾‍♂	man i lotusläge: medium-mörk hudton
+🧘🏿‍♂️	man i lotusposition: mörk hudton
+🧘🏿‍♂	man i lotusposition: mörk hudton
+🛀	person som tar bad
+🛀🏻	person som tar bad: lätt hudton
+🛀🏼	person som tar bad: medellång hudton
+🛀🏽	person som tar bad: medium hudton
+🛀🏾	person som tar bad: medium-mörk hudton
+🛀🏿	person som tar bad: mörk hudton
+🛌	person i sängen
+🛌🏻	person i sängen: lätt hudton
+🛌🏼	person i sängen: medium-lätt hudton
+🛌🏽	person i sängen: medium hudton
+🛌🏾	person i sängen: medium-mörk hudton
+🛌🏿	person i sängen: mörk hudton
+🕴️	man i kostym levitating
+🕴	man i kostym levitating
+🕴🏻	man i kostym levitating: lätt hudton
+🕴🏼	man i kostym levitating: medium-light hudton
+🕴🏽	man i kostym levitating: medium hudton
+🕴🏾	man i kostym levitating: medium-mörk hudton
+🕴🏿	man i kostym levitating: mörk hudton
+🗣️	talande huvud
+🗣	talande huvud
+👤	byst i silhuetten
+👥	buster i siluett
+🤺	person stängsel
+🏇	hästkapplöpning
+🏇🏻	hästkapplöpning: lätt hudton
+🏇🏼	hästkapplöpning: medellång hudton
+🏇🏽	hästkapplöpning: medium hudton
+🏇🏾	hästkapplöpning: medium-mörk hudton
+🏇🏿	hästkapplöpning: mörk hudton
+⛷️	skidåkare
+⛷	skidåkare
+🏂	snowboardåkare
+🏂🏻	snowboardåkare: lätt hudton
+🏂🏼	snowboardåkare: medellång hudton
+🏂🏽	snowboardåkare: medium hudton
+🏂🏾	snowboardåkare: medium-mörk hudton
+🏂🏿	snowboardåkare: mörk hudton
+🏌️	person golf
+🏌	person golf
+🏌🏻	person golf: lätt hudton
+🏌🏼	person golf: medellång hudton
+🏌🏽	person golf: medium hudton
+🏌🏾	person golf: medium-mörk hudton
+🏌🏿	person golf: mörk hudton
+🏌️‍♂️	man golfar
+🏌‍♂️	man golfar
+🏌️‍♂	man golfar
+🏌‍♂	man golfar
+🏌🏻‍♂️	man golf: lätt hudton
+🏌🏻‍♂	man golf: lätt hudton
+🏌🏼‍♂️	man golf: medellång hudton
+🏌🏼‍♂	man golf: medellång hudton
+🏌🏽‍♂️	man golf: medium hudton
+🏌🏽‍♂	man golf: medium hudton
+🏌🏾‍♂️	man golf: medium-mörk hudton
+🏌🏾‍♂	man golf: medium-mörk hudton
+🏌🏿‍♂️	man golf: mörk hudton
+🏌🏿‍♂	man golf: mörk hudton
+🏌️‍♀️	kvinna golf
+🏌‍♀️	kvinna golf
+🏌️‍♀	kvinna golf
+🏌‍♀	kvinna golf
+🏌🏻‍♀️	kvinna golf: lätt hudton
+🏌🏻‍♀	kvinna golf: lätt hudton
+🏌🏼‍♀️	kvinna golf: medellång hudton
+🏌🏼‍♀	kvinna golf: medellång hudton
+🏌🏽‍♀️	kvinna golf: medium hudton
+🏌🏽‍♀	kvinna golf: medium hudton
+🏌🏾‍♀️	kvinna golf: medium-mörk hudton
+🏌🏾‍♀	kvinna golf: medium-mörk hudton
+🏌🏿‍♀️	kvinna golf: mörk hudton
+🏌🏿‍♀	kvinna golf: mörk hudton
+🏄	person surfar
+🏄🏻	person surfing: lätt hudton
+🏄🏼	person surfing: medium-lätt hudton
+🏄🏽	person surfing: medium hudton
+🏄🏾	person surfing: medium-mörk hudton
+🏄🏿	person surfing: mörk hudton
+🏄‍♂️	man surfar
+🏄‍♂	man surfar
+🏄🏻‍♂️	man surfar: lätt hudton
+🏄🏻‍♂	man surfar: lätt hudton
+🏄🏼‍♂️	man surfar: medium-lätt hudton
+🏄🏼‍♂	man surfar: medium-lätt hudton
+🏄🏽‍♂️	man surfar: medium hudton
+🏄🏽‍♂	man surfar: medium hudton
+🏄🏾‍♂️	man surfar: medium-mörk hudton
+🏄🏾‍♂	man surfar: medium-mörk hudton
+🏄🏿‍♂️	man surfar: mörk hudton
+🏄🏿‍♂	man surfar: mörk hudton
+🏄‍♀️	kvinna surfing
+🏄‍♀	kvinna surfing
+🏄🏻‍♀️	kvinna surfing: lätt hudton
+🏄🏻‍♀	kvinna surfing: lätt hudton
+🏄🏼‍♀️	kvinna surfing: medium-lätt hudton
+🏄🏼‍♀	kvinna surfing: medium-lätt hudton
+🏄🏽‍♀️	kvinna surfing: medium hudton
+🏄🏽‍♀	kvinna surfing: medium hudton
+🏄🏾‍♀️	kvinna surfing: medium-mörk hudton
+🏄🏾‍♀	kvinna surfing: medium-mörk hudton
+🏄🏿‍♀️	kvinna surfing: mörk hudton
+🏄🏿‍♀	kvinna surfing: mörk hudton
+🚣	person roddbåt
+🚣🏻	person roddbåt: lätt hudton
+🚣🏼	person roddbåt: medium-lätt hudton
+🚣🏽	person roddbåt: medium hudton
+🚣🏾	person roddbåt: medium-mörk hudton
+🚣🏿	person roddbåt: mörk hudton
+🚣‍♂️	man roddbåt
+🚣‍♂	man roddbåt
+🚣🏻‍♂️	man roddbåt: lätt hudton
+🚣🏻‍♂	man roddbåt: lätt hudton
+🚣🏼‍♂️	man roddbåt: medium-lätt hudton
+🚣🏼‍♂	man roddbåt: medium-lätt hudton
+🚣🏽‍♂️	man roddbåt: medium hudton
+🚣🏽‍♂	man roddbåt: medium hudton
+🚣🏾‍♂️	man roddbåt: medium-mörk hudton
+🚣🏾‍♂	man roddbåt: medium-mörk hudton
+🚣🏿‍♂️	man roddbåt: mörk hudton
+🚣🏿‍♂	man roddbåt: mörk hudton
+🚣‍♀️	kvinna roddbåt
+🚣‍♀	kvinna roddbåt
+🚣🏻‍♀️	kvinna roddbåt: lätt hudton
+🚣🏻‍♀	kvinna roddbåt: lätt hudton
+🚣🏼‍♀️	kvinna roddbåt: medium-lätt hudton
+🚣🏼‍♀	kvinna roddbåt: medium-lätt hudton
+🚣🏽‍♀️	kvinna roddbåt: medium hudton
+🚣🏽‍♀	kvinna roddbåt: medium hudton
+🚣🏾‍♀️	kvinna roddbåt: medium-mörk hudton
+🚣🏾‍♀	kvinna roddbåt: medium-mörk hudton
+🚣🏿‍♀️	kvinna roddbåt: mörk hudton
+🚣🏿‍♀	kvinna roddbåt: mörk hudton
+🏊	person simning
+🏊🏻	person simning: lätt hudton
+🏊🏼	person simning: medium-lätt hudton
+🏊🏽	person simning: medium hudton
+🏊🏾	person simning: medium-mörk hudton
+🏊🏿	person simning: mörk hudton
+🏊‍♂️	man simmar
+🏊‍♂	man simmar
+🏊🏻‍♂️	man simmar: lätt hudton
+🏊🏻‍♂	man simmar: lätt hudton
+🏊🏼‍♂️	man simmar: medium-lätt hudton
+🏊🏼‍♂	man simmar: medium-lätt hudton
+🏊🏽‍♂️	man simmar: medium hudton
+🏊🏽‍♂	man simmar: medium hudton
+🏊🏾‍♂️	man simning: medium-mörk hudton
+🏊🏾‍♂	man simning: medium-mörk hudton
+🏊🏿‍♂️	man simmar: mörk hudton
+🏊🏿‍♂	man simmar: mörk hudton
+🏊‍♀️	kvinna simning
+🏊‍♀	kvinna simning
+🏊🏻‍♀️	kvinna simning: lätt hudton
+🏊🏻‍♀	kvinna simning: lätt hudton
+🏊🏼‍♀️	kvinna simning: medium-lätt hudton
+🏊🏼‍♀	kvinna simning: medium-lätt hudton
+🏊🏽‍♀️	kvinna simning: medium hudton
+🏊🏽‍♀	kvinna simning: medium hudton
+🏊🏾‍♀️	kvinna simning: medium-mörk hudton
+🏊🏾‍♀	kvinna simning: medium-mörk hudton
+🏊🏿‍♀️	kvinna simning: mörk hudton
+🏊🏿‍♀	kvinna simning: mörk hudton
+⛹️	person studsande boll
+⛹	person studsande boll
+⛹🏻	person studsande boll: lätt hudton
+⛹🏼	person studsande boll: medium-lätt hudton
+⛹🏽	person studsande boll: medium hudton
+⛹🏾	person studsande boll: medium-mörk hudton
+⛹🏿	person studsande boll: mörk hudton
+⛹️‍♂️	man studsande boll
+⛹‍♂️	man studsande boll
+⛹️‍♂	man studsande boll
+⛹‍♂	man studsande boll
+⛹🏻‍♂️	man studsande boll: lätt hudton
+⛹🏻‍♂	man studsande boll: lätt hudton
+⛹🏼‍♂️	man studsande boll: medium-lätt hudton
+⛹🏼‍♂	man studsande boll: medium-lätt hudton
+⛹🏽‍♂️	man studsande boll: medium hudton
+⛹🏽‍♂	man studsande boll: medium hudton
+⛹🏾‍♂️	man studsande boll: medium-mörk hudton
+⛹🏾‍♂	man studsande boll: medium-mörk hudton
+⛹🏿‍♂️	man studsande boll: mörk hudton
+⛹🏿‍♂	man studsande boll: mörk hudton
+⛹️‍♀️	kvinna studsande boll
+⛹‍♀️	kvinna studsande boll
+⛹️‍♀	kvinna studsande boll
+⛹‍♀	kvinna studsande boll
+⛹🏻‍♀️	kvinna studsande boll: lätt hudton
+⛹🏻‍♀	kvinna studsande boll: lätt hudton
+⛹🏼‍♀️	kvinna studsande boll: medium-ljus hudton
+⛹🏼‍♀	kvinna studsande boll: medium-ljus hudton
+⛹🏽‍♀️	kvinna studsande boll: medium hudton
+⛹🏽‍♀	kvinna studsande boll: medium hudton
+⛹🏾‍♀️	kvinna studsande boll: medium-mörk hudton
+⛹🏾‍♀	kvinna studsande boll: medium-mörk hudton
+⛹🏿‍♀️	kvinna studsande boll: mörk hudton
+⛹🏿‍♀	kvinna studsande boll: mörk hudton
+🏋️	person lyfta vikter
+🏋	person lyfta vikter
+🏋🏻	person lyfta vikter: lätt hudton
+🏋🏼	person lyfta vikter: medelljus hudton
+🏋🏽	person lyfta vikter: medium hudton
+🏋🏾	person lyfta vikter: medium-mörk hudton
+🏋🏿	person lyfta vikter: mörk hudton
+🏋️‍♂️	man lyfter vikter
+🏋‍♂️	man lyfter vikter
+🏋️‍♂	man lyfter vikter
+🏋‍♂	man lyfter vikter
+🏋🏻‍♂️	man lyfter vikter: lätt hudton
+🏋🏻‍♂	man lyfter vikter: lätt hudton
+🏋🏼‍♂️	man lyfter vikter: medelljus hudton
+🏋🏼‍♂	man lyfter vikter: medelljus hudton
+🏋🏽‍♂️	man lyfter vikter: medium hudton
+🏋🏽‍♂	man lyfter vikter: medium hudton
+🏋🏾‍♂️	man lyfter vikter: medium-mörk hudton
+🏋🏾‍♂	man lyfter vikter: medium-mörk hudton
+🏋🏿‍♂️	man lyfter vikter: mörk hudton
+🏋🏿‍♂	man lyfter vikter: mörk hudton
+🏋️‍♀️	kvinna lyfta vikter
+🏋‍♀️	kvinna lyfta vikter
+🏋️‍♀	kvinna lyfta vikter
+🏋‍♀	kvinna lyfta vikter
+🏋🏻‍♀️	kvinna lyfta vikter: lätt hudton
+🏋🏻‍♀	kvinna lyfta vikter: lätt hudton
+🏋🏼‍♀️	kvinna lyfta vikter: medium-ljus hudton
+🏋🏼‍♀	kvinna lyfta vikter: medium-ljus hudton
+🏋🏽‍♀️	kvinna lyfta vikter: medium hudton
+🏋🏽‍♀	kvinna lyfta vikter: medium hudton
+🏋🏾‍♀️	kvinna lyfta vikter: medium-mörk hudton
+🏋🏾‍♀	kvinna lyfta vikter: medium-mörk hudton
+🏋🏿‍♀️	kvinna lyfta vikter: mörk hudton
+🏋🏿‍♀	kvinna lyfta vikter: mörk hudton
+🚴	person cykling
+🚴🏻	person cykling: lätt hudton
+🚴🏼	person cykling: medium-lätt hudton
+🚴🏽	person cykling: medium hudton
+🚴🏾	person cykling: medium-mörk hudton
+🚴🏿	person cykling: mörk hudton
+🚴‍♂️	man cyklar
+🚴‍♂	man cyklar
+🚴🏻‍♂️	man cykling: lätt hudton
+🚴🏻‍♂	man cykling: lätt hudton
+🚴🏼‍♂️	man cykling: medellång hudton
+🚴🏼‍♂	man cykling: medellång hudton
+🚴🏽‍♂️	man cykling: medium hudton
+🚴🏽‍♂	man cykling: medium hudton
+🚴🏾‍♂️	man cykling: medium-mörk hudton
+🚴🏾‍♂	man cykling: medium-mörk hudton
+🚴🏿‍♂️	man cykling: mörk hudton
+🚴🏿‍♂	man cykling: mörk hudton
+🚴‍♀️	kvinna cykling
+🚴‍♀	kvinna cykling
+🚴🏻‍♀️	kvinna cykling: lätt hudton
+🚴🏻‍♀	kvinna cykling: lätt hudton
+🚴🏼‍♀️	kvinna cykling: medium-lätt hudton
+🚴🏼‍♀	kvinna cykling: medium-lätt hudton
+🚴🏽‍♀️	kvinna cykling: medium hudton
+🚴🏽‍♀	kvinna cykling: medium hudton
+🚴🏾‍♀️	kvinna cykling: medium-mörk hudton
+🚴🏾‍♀	kvinna cykling: medium-mörk hudton
+🚴🏿‍♀️	kvinna cykling: mörk hudton
+🚴🏿‍♀	kvinna cykling: mörk hudton
+🚵	person mountainbike
+🚵🏻	person mountainbike: lätt hudton
+🚵🏼	person mountainbike: medellång hudton
+🚵🏽	person mountainbike: medium hudton
+🚵🏾	person mountainbike: medium-mörk hudton
+🚵🏿	person mountainbike: mörk hudton
+🚵‍♂️	man mountainbike
+🚵‍♂	man mountainbike
+🚵🏻‍♂️	man mountainbike: lätt hudton
+🚵🏻‍♂	man mountainbike: lätt hudton
+🚵🏼‍♂️	man mountainbike: medelljus hudton
+🚵🏼‍♂	man mountainbike: medelljus hudton
+🚵🏽‍♂️	man mountainbike: medium hudton
+🚵🏽‍♂	man mountainbike: medium hudton
+🚵🏾‍♂️	man mountainbike: medium-mörk hudton
+🚵🏾‍♂	man mountainbike: medium-mörk hudton
+🚵🏿‍♂️	man mountainbike: mörk hudton
+🚵🏿‍♂	man mountainbike: mörk hudton
+🚵‍♀️	kvinna mountainbike
+🚵‍♀	kvinna mountainbike
+🚵🏻‍♀️	kvinna mountainbike: lätt hudton
+🚵🏻‍♀	kvinna mountainbike: lätt hudton
+🚵🏼‍♀️	kvinna mountainbike: medium-lätt hudton
+🚵🏼‍♀	kvinna mountainbike: medium-lätt hudton
+🚵🏽‍♀️	kvinna mountainbike: medium hudton
+🚵🏽‍♀	kvinna mountainbike: medium hudton
+🚵🏾‍♀️	kvinna mountainbike: medium-mörk hudton
+🚵🏾‍♀	kvinna mountainbike: medium-mörk hudton
+🚵🏿‍♀️	kvinna mountainbike: mörk hudton
+🚵🏿‍♀	kvinna mountainbike: mörk hudton
+🏎️	racerbil
+🏎	racerbil
+🏍️	motorcykel
+🏍	motorcykel
+🤸	person vagn
+🤸🏻	person vagn: lätt hudton
+🤸🏼	person vagn: medium-lätt hudton
+🤸🏽	person vagn: medium hudton
+🤸🏾	person vagn: medium-mörk hudton
+🤸🏿	person vagn: mörk hudton
+🤸‍♂️	man cartwheeling
+🤸‍♂	man cartwheeling
+🤸🏻‍♂️	man cartwheeling: lätt hudton
+🤸🏻‍♂	man cartwheeling: lätt hudton
+🤸🏼‍♂️	man vagn: medium-lätt hudton
+🤸🏼‍♂	man vagn: medium-lätt hudton
+🤸🏽‍♂️	man cartwheeling: medium hudton
+🤸🏽‍♂	man cartwheeling: medium hudton
+🤸🏾‍♂️	man vagn: medium-mörk hudton
+🤸🏾‍♂	man vagn: medium-mörk hudton
+🤸🏿‍♂️	man cartwheeling: mörk hudton
+🤸🏿‍♂	man cartwheeling: mörk hudton
+🤸‍♀️	kvinna cartwheeling
+🤸‍♀	kvinna cartwheeling
+🤸🏻‍♀️	kvinna vagn: lätt hudton
+🤸🏻‍♀	kvinna vagn: lätt hudton
+🤸🏼‍♀️	kvinna vagn: medium-lätt hudton
+🤸🏼‍♀	kvinna vagn: medium-lätt hudton
+🤸🏽‍♀️	kvinna vagn: medium hudton
+🤸🏽‍♀	kvinna vagn: medium hudton
+🤸🏾‍♀️	kvinna vagn: medium-mörk hudton
+🤸🏾‍♀	kvinna vagn: medium-mörk hudton
+🤸🏿‍♀️	kvinna vagn: mörk hudton
+🤸🏿‍♀	kvinna vagn: mörk hudton
+🤼	människor brottas
+🤼‍♂️	män brottning
+🤼‍♂	män brottning
+🤼‍♀️	kvinnors brottning
+🤼‍♀	kvinnors brottning
+🤽	person som spelar vattenpolo
+🤽🏻	person som spelar vattenpolo: lätt hudton
+🤽🏼	person som spelar vattenpolo: medellång hudton
+🤽🏽	person som spelar vattenpolo: medium hudton
+🤽🏾	person som spelar vattenpolo: medium-mörk hudton
+🤽🏿	person som spelar vattenpolo: mörk hudton
+🤽‍♂️	man spelar vattenpolo
+🤽‍♂	man spelar vattenpolo
+🤽🏻‍♂️	man spelar vattenpolo: lätt hudton
+🤽🏻‍♂	man spelar vattenpolo: lätt hudton
+🤽🏼‍♂️	man spelar vattenpolo: medellång hudton
+🤽🏼‍♂	man spelar vattenpolo: medellång hudton
+🤽🏽‍♂️	man spelar vattenpolo: medium hudton
+🤽🏽‍♂	man spelar vattenpolo: medium hudton
+🤽🏾‍♂️	man spelar vattenpolo: medium-mörk hudton
+🤽🏾‍♂	man spelar vattenpolo: medium-mörk hudton
+🤽🏿‍♂️	man spelar vattenpolo: mörk hudton
+🤽🏿‍♂	man spelar vattenpolo: mörk hudton
+🤽‍♀️	kvinna som spelar vattenpolo
+🤽‍♀	kvinna som spelar vattenpolo
+🤽🏻‍♀️	kvinna som spelar vattenpolo: lätt hudton
+🤽🏻‍♀	kvinna som spelar vattenpolo: lätt hudton
+🤽🏼‍♀️	kvinna som spelar vattenpolo: medellång hudton
+🤽🏼‍♀	kvinna som spelar vattenpolo: medellång hudton
+🤽🏽‍♀️	kvinna som spelar vattenpolo: medium hudton
+🤽🏽‍♀	kvinna som spelar vattenpolo: medium hudton
+🤽🏾‍♀️	kvinna som spelar vattenpolo: medium-mörk hudton
+🤽🏾‍♀	kvinna som spelar vattenpolo: medium-mörk hudton
+🤽🏿‍♀️	kvinna som spelar vattenpolo: mörk hudton
+🤽🏿‍♀	kvinna som spelar vattenpolo: mörk hudton
+🤾	person som spelar handboll
+🤾🏻	person som spelar handboll: lätt hudton
+🤾🏼	person som spelar handboll: medium-lätt hudton
+🤾🏽	person som spelar handboll: medium hudton
+🤾🏾	person som spelar handboll: medium-mörk hudton
+🤾🏿	person som spelar handboll: mörk hudton
+🤾‍♂️	man spelar handboll
+🤾‍♂	man spelar handboll
+🤾🏻‍♂️	man spelar handboll: lätt hudton
+🤾🏻‍♂	man spelar handboll: lätt hudton
+🤾🏼‍♂️	man spelar handboll: medium-lätt hudton
+🤾🏼‍♂	man spelar handboll: medium-lätt hudton
+🤾🏽‍♂️	man spelar handboll: medium hudton
+🤾🏽‍♂	man spelar handboll: medium hudton
+🤾🏾‍♂️	man spelar handboll: medium-mörk hudton
+🤾🏾‍♂	man spelar handboll: medium-mörk hudton
+🤾🏿‍♂️	man spelar handboll: mörk hudton
+🤾🏿‍♂	man spelar handboll: mörk hudton
+🤾‍♀️	kvinna som spelar handboll
+🤾‍♀	kvinna som spelar handboll
+🤾🏻‍♀️	kvinna som spelar handboll: lätt hudton
+🤾🏻‍♀	kvinna som spelar handboll: lätt hudton
+🤾🏼‍♀️	kvinna som spelar handboll: medium-lätt hudton
+🤾🏼‍♀	kvinna som spelar handboll: medium-lätt hudton
+🤾🏽‍♀️	kvinna som spelar handboll: medium hudton
+🤾🏽‍♀	kvinna som spelar handboll: medium hudton
+🤾🏾‍♀️	kvinna som spelar handboll: medium-mörk hudton
+🤾🏾‍♀	kvinna som spelar handboll: medium-mörk hudton
+🤾🏿‍♀️	kvinna som spelar handboll: mörk hudton
+🤾🏿‍♀	kvinna som spelar handboll: mörk hudton
+🤹	person jonglering
+🤹🏻	person jonglering: lätt hudton
+🤹🏼	person jonglering: medium-lätt hudton
+🤹🏽	person jonglering: medium hudton
+🤹🏾	person jonglering: medium-mörk hudton
+🤹🏿	person jonglering: mörk hudton
+🤹‍♂️	man jonglerar
+🤹‍♂	man jonglerar
+🤹🏻‍♂️	man jonglerar: lätt hudton
+🤹🏻‍♂	man jonglerar: lätt hudton
+🤹🏼‍♂️	man jonglerar: medium-lätt hudton
+🤹🏼‍♂	man jonglerar: medium-lätt hudton
+🤹🏽‍♂️	man jonglerar: medium hudton
+🤹🏽‍♂	man jonglerar: medium hudton
+🤹🏾‍♂️	man jonglerar: medium-mörk hudton
+🤹🏾‍♂	man jonglerar: medium-mörk hudton
+🤹🏿‍♂️	man jonglerar: mörk hudton
+🤹🏿‍♂	man jonglerar: mörk hudton
+🤹‍♀️	kvinnan jonglerar
+🤹‍♀	kvinnan jonglerar
+🤹🏻‍♀️	kvinnan jonglerar: lätt hudton
+🤹🏻‍♀	kvinnan jonglerar: lätt hudton
+🤹🏼‍♀️	kvinnan jonglerar: medium ljus hudton
+🤹🏼‍♀	kvinnan jonglerar: medium ljus hudton
+🤹🏽‍♀️	kvinnan jonglerar: medium hudton
+🤹🏽‍♀	kvinnan jonglerar: medium hudton
+🤹🏾‍♀️	kvinnan jonglerar: medium-mörk hudton
+🤹🏾‍♀	kvinnan jonglerar: medium-mörk hudton
+🤹🏿‍♀️	kvinnan jonglerar: mörk hudton
+🤹🏿‍♀	kvinnan jonglerar: mörk hudton
+👫	man och kvinna som håller händer
+👬	två män som håller händerna
+👭	två kvinnor som håller händerna
+💏	kyss
+👩‍❤️‍💋‍👨	kyss: kvinna, man
+👩‍❤‍💋‍👨	kyss: kvinna, man
+👨‍❤️‍💋‍👨	kiss: man, man
+👨‍❤‍💋‍👨	kiss: man, man
+👩‍❤️‍💋‍👩	kyss: kvinna, kvinna
+👩‍❤‍💋‍👩	kyss: kvinna, kvinna
+💑	par med hjärta
+👩‍❤️‍👨	par med hjärta: kvinna, man
+👩‍❤‍👨	par med hjärta: kvinna, man
+👨‍❤️‍👨	par med hjärta: man, man
+👨‍❤‍👨	par med hjärta: man, man
+👩‍❤️‍👩	par med hjärta: kvinna, kvinna
+👩‍❤‍👩	par med hjärta: kvinna, kvinna
+👪	familj
+👨‍👩‍👦	familj: man, kvinna, pojke
+👨‍👩‍👧	familj: man, kvinna, flicka
+👨‍👩‍👧‍👦	familj: man, kvinna, flicka, pojke
+👨‍👩‍👦‍👦	familj: man, kvinna, pojke, pojke
+👨‍👩‍👧‍👧	familj: man, kvinna, flicka, flicka
+👨‍👨‍👦	familj: man, man, pojke
+👨‍👨‍👧	familj: man, man, flicka
+👨‍👨‍👧‍👦	familj: man, man, flicka, pojke
+👨‍👨‍👦‍👦	familj: man, man, pojke, pojke
+👨‍👨‍👧‍👧	familj: man, man, flicka, flicka
+👩‍👩‍👦	familj: kvinna, kvinna, pojke
+👩‍👩‍👧	familj: kvinna, kvinna, flicka
+👩‍👩‍👧‍👦	familj: kvinna, kvinna, flicka, pojke
+👩‍👩‍👦‍👦	familj: kvinna, kvinna, pojke, pojke
+👩‍👩‍👧‍👧	familj: kvinna, kvinna, flicka, flicka
+👨‍👦	familj: man, pojke
+👨‍👦‍👦	familj: man, pojke, pojke
+👨‍👧	familj: man, flicka
+👨‍👧‍👦	familj: man, flicka, pojke
+👨‍👧‍👧	familj: man, flicka, flicka
+👩‍👦	familj: kvinna, pojke
+👩‍👦‍👦	familj: kvinna, pojke, pojke
+👩‍👧	familj: kvinna, flicka
+👩‍👧‍👦	familj: kvinna, flicka, pojke
+👩‍👧‍👧	familj: kvinna, flicka, flicka
+🤳	selfie
+🤳🏻	selfie: lätt hudton
+🤳🏼	selfie: medium-lätt hudton
+🤳🏽	selfie: medium hudton
+🤳🏾	selfie: medium-mörk hudton
+🤳🏿	selfie: mörk hudton
+💪	böjda biceps
+💪🏻	böjda biceps: lätt hudton
+💪🏼	böjda biceps: medium-lätt hudton
+💪🏽	böjda biceps: medium hudton
+💪🏾	böjda biceps: medium-mörk hudton
+💪🏿	böjda biceps: mörk hudton
+🦵	ben
+🦵🏻	ben: lätt hudton
+🦵🏼	ben: medium-lätt hudton
+🦵🏽	ben: medium hudton
+🦵🏾	ben: medium-mörk hudton
+🦵🏿	ben: mörk hudton
+🦶	fot
+🦶🏻	fot: lätt hudton
+🦶🏼	fot: medium-lätt hudton
+🦶🏽	fot: medium hudton
+🦶🏾	fot: medium-mörk hudton
+🦶🏿	fot: mörk hudton
+👈	backhand index pekande till vänster
+👈🏻	backhand index pekande till vänster: lätt hudton
+👈🏼	backhand-index som pekar till vänster: medelljus hudton
+👈🏽	backhand index pekande vänster: medium hudton
+👈🏾	backhand index pekande till vänster: medium-mörk hudton
+👈🏿	backhand index pekande till vänster: mörk hudton
+👉	backhand index som pekar åt höger
+👉🏻	backhand index pekande åt höger: lätt hudton
+👉🏼	backhand-index som pekar åt höger: medelljus hudton
+👉🏽	backhand index som pekar åt höger: medium hudton
+👉🏾	backhand-index som pekar åt höger: medium-mörk hudton
+👉🏿	backhand index som pekar åt höger: mörk hudton
+☝️	index pekar uppåt
+☝	index pekar uppåt
+☝🏻	index pekar upp: lätt hudton
+☝🏼	index som pekar uppåt: medellång hudton
+☝🏽	index pekar uppåt: medium hudton
+☝🏾	index som pekar uppåt: medium-mörk hudton
+☝🏿	index uppåt: mörk hudton
+👆	backhand index pekar upp
+👆🏻	backhand index uppåt: lätt hudton
+👆🏼	backhand-index som pekar uppåt: medelljus hudton
+👆🏽	backhand index uppåt: medium hudton
+👆🏾	backhand index uppåt: medium-mörk hudton
+👆🏿	backhand index uppåt: mörk hudton
+🖕	långfinger
+🖕🏻	långfingret: lätt hudton
+🖕🏼	långfingret: medel-lätt hudton
+🖕🏽	långfingret: medium hudton
+🖕🏾	långfingret: medium-mörk hudton
+🖕🏿	långfingret: mörk hudton
+👇	backhand index pekande nedåt
+👇🏻	backhand-index som pekar nedåt: lätt hudton
+👇🏼	backhand-index som pekar nedåt: medium-lätt hudton
+👇🏽	backhand-index som pekar nedåt: medium hudton
+👇🏾	backhand-index som pekar nedåt: medium-mörk hudton
+👇🏿	backhand index pekande nedåt: mörk hudton
+✌️	segerhand
+✌	segerhand
+✌🏻	segerhand: lätt hudton
+✌🏼	segerhand: medellång hudton
+✌🏽	segerhand: medium hudton
+✌🏾	segerhand: medium-mörk hudton
+✌🏿	segerhand: mörk hudton
+🤞	korsade fingrar
+🤞🏻	korsade fingrar: lätt hudton
+🤞🏼	korsade fingrar: medellång hudton
+🤞🏽	korsade fingrar: medium hudton
+🤞🏾	korsade fingrar: medium-mörk hudton
+🤞🏿	korsade fingrar: mörk hudton
+🖖	vulkan hälsa
+🖖🏻	vulkansalut: lätt hudton
+🖖🏼	vulkansalut: medium-lätt hudton
+🖖🏽	vulkansalut: medium hudton
+🖖🏾	vulkansalut: medium-mörk hudton
+🖖🏿	vulkansalut: mörk hudton
+🤘	tecken på hornen
+🤘🏻	hornens tecken: lätt hudton
+🤘🏼	hornens tecken: medellång hudton
+🤘🏽	hornens tecken: medium hudton
+🤘🏾	hornens tecken: medel-mörk hudton
+🤘🏿	hornens tecken: mörk hudton
+🤙	ring mig hand
+🤙🏻	ring mig hand: lätt hudton
+🤙🏼	ring mig hand: medium-lätt hudton
+🤙🏽	ring mig hand: medium hudton
+🤙🏾	ring mig hand: medium-mörk hudton
+🤙🏿	ring mig hand: mörk hudton
+🖐️	hand med fingrarna sprutade
+🖐	hand med fingrarna sprutade
+🖐🏻	hand med fingrarna: lätt hudton
+🖐🏼	handen med fingrarna: medium-lätt hudton
+🖐🏽	hand med fingrarna: medell hudton
+🖐🏾	hand med fingrarna spredda: medel-mörk hudton
+🖐🏿	hand med fingrarna: mörk hudton
+✋	upphöjd hand
+✋🏻	upphöjd hand: lätt hudton
+✋🏼	upphöjd hand: medium lätt hudton
+✋🏽	upphöjd hand: medium hudton
+✋🏾	upphöjd hand: medium-mörk hudton
+👌	OK hand
+👌🏻	OK hand: lätt hudton
+👌🏼	OK hand: medellång hudton
+👌🏽	OK hand: medium hudton
+👌🏾	OK hand: medium-mörk hudton
+👌🏿	OK hand: mörk hudton
+👍	tummen upp
+👍🏻	tummen upp: lätt hudton
+👍🏼	tummen upp: medellång hudton
+👍🏽	tummen upp: medium hudton
+👍🏾	tummen upp: medium-mörk hudton
+👍🏿	tummen upp: mörk hudton
+👎	tummen ner
+👎🏻	tummen ner: lätt hudton
+👎🏼	tummen ner: medium-lätt hudton
+👎🏽	tummen ner: medium hudton
+👎🏾	tummen ner: medium-mörk hudton
+👎🏿	tummen ner: mörk hudton
+✊	upphöjd knytnäve
+✊🏻	upphöjd knytnäve: lätt hudton
+✊🏼	upphöjd knytnäve: medium lätt hudton
+✊🏽	upphöjd knytnäve: medium hudton
+✊🏾	upphöjd knytnäve: medium-mörk hudton
+✊🏿	upphöjd knytnäve: mörk hudton
+👊	kommande näve
+👊🏻	mötande knytnäve: lätt hudton
+👊🏼	mötande knytnäve: medellång hudton
+👊🏽	mötande knytnäve: medium hudton
+👊🏾	mötande knytnäve: medium-mörk hudton
+👊🏿	mötande knytnäve: mörk hudton
+🤛	vänster knytnäve
+🤛🏻	vänster knytnäve: lätt hudton
+🤛🏼	vänster knytnäve: medellång hudton
+🤛🏽	vänster knytnäve: medium hudton
+🤛🏾	vänster knytnäve: medium-mörk hudton
+🤛🏿	vänster knytnäve: mörk hudton
+🤜	höger vänd näve
+🤜🏻	höger vänd näve: lätt hudton
+🤜🏼	högervänd knytnäve: medellång hudton
+🤜🏽	högervänd knytnäve: medium hudton
+🤜🏾	höger vänd näve: medium-mörk hudton
+🤜🏿	höger vänd näve: mörk hudton
+🤚	upphöjd på ryggen
+🤚🏻	höjd bakhand: lätt hudton
+🤚🏼	höjd på baksidan: medium-lätt hudton
+🤚🏽	höjd bakhand: medium hudton
+🤚🏾	höjd på baksidan: medium-mörk hudton
+🤚🏿	höjd bakhand: mörk hudton
+👋	viftande hand
+👋🏻	vinkande hand: lätt hudton
+👋🏼	vinkande hand: medium-lätt hudton
+👋🏽	vinkande hand: medium hudton
+👋🏾	viftande hand: medium-mörk hudton
+👋🏿	vinkande hand: mörk hudton
+🤟	älskar dig gest
+🤟🏻	älskar dig gest: lätt hudton
+🤟🏼	älskar dig gest: medellång hudton
+🤟🏽	älskar dig gest: medium hudton
+🤟🏾	älskar dig gest: medium-mörk hudton
+🤟🏿	älskar dig gest: mörk hudton
+✍️	skrivande hand
+✍	skrivande hand
+✍🏻	skrivande hand: lätt hudton
+✍🏼	skrivande hand: medium-lätt hudton
+✍🏽	skrivande hand: medium hudton
+✍🏾	skrivande hand: medium-mörk hudton
+✍🏿	skrivande hand: mörk hudton
+👏	klappar händer
+👏🏻	klappar i händerna: lätt hudton
+👏🏼	klappar i händerna: medelljus hudton
+👏🏽	klappar i händerna: medium hudton
+👏🏾	klappande händer: medium-mörk hudton
+👏🏿	klappar i händerna: mörk hudton
+👐	öppna händer
+👐🏻	öppna händer: lätt hudton
+👐🏼	öppna händer: medellång hudton
+👐🏽	öppna händer: medium hudton
+👐🏾	öppna händer: medium-mörk hudton
+👐🏿	öppna händer: mörk hudton
+🙌	höja händerna
+🙌🏻	höja händerna: lätt hudton
+🙌🏼	höja händerna: medium-lätt hudton
+🙌🏽	höja händer: medium hudton
+🙌🏾	höja händerna: medium-mörk hudton
+🙌🏿	höja händerna: mörk hudton
+🤲	handflatorna upp tillsammans
+🤲🏻	handflatorna upp tillsammans: lätt hudton
+🤲🏼	handflatorna upp tillsammans: medellång hudton
+🤲🏽	handflatorna upp tillsammans: medium hudton
+🤲🏾	handflatorna upp tillsammans: medium-mörk hudton
+🤲🏿	handflatorna upp tillsammans: mörk hudton
+🙏	vikta händer
+🙏🏻	vikta händer: lätt hudton
+🙏🏼	veckade händer: medium-lätt hudton
+🙏🏽	vikta händer: medium hudton
+🙏🏾	vikta händer: medium-mörk hudton
+🙏🏿	vikta händer: mörk hudton
+🤝	handslag
+💅	nagellack
+💅🏻	nagellack: lätt hudton
+💅🏼	nagellack: medium-lätt hudton
+💅🏽	nagellack: medium hudton
+💅🏾	nagellack: medium-mörk hudton
+💅🏿	nagellack: mörk hudton
+👂	öra
+👂🏻	örat: lätt hudton
+👂🏼	örat: medium - lätt hudton
+👂🏽	örat: medium hudton
+👂🏾	örat: medium-mörk hudton
+👂🏿	örat: mörk hudton
+👃	näsa
+👃🏻	näsa: lätt hudton
+👃🏼	näsa: medium-lätt hudton
+👃🏽	näsa: medium hudton
+👃🏾	näsa: medium-mörk hudton
+👃🏿	näsa: mörk hudton
+🦰	rödhårig
+🦱	lockig
+🦲	snart
+🦳	vithårig
+👣	fotspår
+👀	ögon
+👁️	öga
+👁	öga
+👁️‍🗨️	öga i pratbubblan
+👁‍🗨️	öga i pratbubblan
+👁️‍🗨	öga i pratbubblan
+👁‍🗨	öga i pratbubblan
+🧠	hjärna
+🦴	ben
+🦷	tand
+👅	tunga
+👄	mun
+💋	kyssmärke
+💘	hjärta med pil
+❤️	rött hjärta
+❤	rött hjärta
+💓	bultande hjärta
+💔	brustet hjärta
+💕	två hjärtan
+💖	glittrande hjärta
+💗	växande hjärta
+💙	blått hjärta
+💚	grönt hjärta
+💛	gult hjärta
+🧡	orange hjärta
+💜	lila hjärta
+🖤	svart hjärta
+💝	hjärta med band
+💞	roterande hjärtan
+💟	hjärta dekoration
+❣️	kraftigt utropstecken
+❣	kraftigt utropstecken
+💌	kärleksbrev
+💤	zzz
+💢	ilska symbol
+💣	bomba
+💥	kollision
+💦	svett droppar
+💨	rusar bort
+💫	yr
+💬	tal ballong
+🗨️	vänster pratbubbla
+🗨	vänster pratbubbla
+🗯️	rätt ilska bubbla
+🗯	rätt ilska bubbla
+💭	tänkte ballongen
+🕳️	hål
+🕳	hål
+👓	glasögon
+🕶️	solglasögon
+🕶	solglasögon
+🥽	glasögon
+🥼	labb Rock
+👔	slips
+👕	t-shirt
+👖	jeans
+🧣	scarf
+🧤	handskar
+🧥	täcka
+🧦	strumpor
+👗	klänning
+👘	kimono
+👙	bikini
+👚	kvinnans kläder
+👛	handväska
+👜	handväska
+👝	kuvertväska
+🛍️	shoppingkassar
+🛍	shoppingkassar
+🎒	skolryggsäck
+👞	mans sko
+👟	springskor
+🥾	vandringskänga
+🥿	kvinnas platta sko
+👠	högklackade skor
+👡	kvinnas sandal
+👢	kvinnors bagage
+👑	krona
+👒	kvinnans hatt
+🎩	hög hatt
+🎓	examen cap
+🧢	fakturerad mössa
+⛑️	räddningsarbetares hjälm
+⛑	räddningsarbetares hjälm
+📿	radband
+💄	läppstift
+💍	ringa
+💎	ädelsten
+🐵	AP ansikte
+🐒	apa
+🦍	gorilla
+🐶	hund ansikte
+🐕	hund
+🐩	pudel
+🐺	varg ansikte
+🦊	räv ansikte
+🦝	tvättbjörn
+🐱	som han gör
+🐈	katt
+🦁	lejon ansikte
+🐯	tiger ansikte
+🐅	tiger
+🐆	leopard
+🐴	häst ansikte
+🐎	häst
+🦄	enhörning ansikte
+🦓	zebra
+🦌	rådjur
+🐮	ko ansikte
+🐂	oxe
+🐃	vattenbuffel
+🐄	ko
+🐷	svin ansikte
+🐖	gris
+🐗	vildsvin
+🐽	svin näsa
+🐏	Bagge
+🐑	tackan
+🐐	get
+🐪	kamel
+🐫	kamel med två knölar
+🦙	flamma
+🦒	giraff
+🐘	elefant
+🦏	noshörning
+🦛	flodhäst
+🐭	mus ansikte
+🐁	mus
+🐀	råtta
+🐹	ansiktshamster
+🐰	kaninansikte
+🐇	kanin
+🐿️	jordekorre
+🐿	jordekorre
+🦔	igelkott
+🦇	en
+🐻	björn ansikte
+🐨	koala
+🐼	panda gör
+🦘	känguru
+🦡	grävling
+🐾	tassavtryck
+🦃	Kalkon
+🐔	kyckling
+🐓	tupp
+🐣	kläckande brud
+🐤	baby chick
+🐥	framsida baby chick
+🐦	fågel
+🐧	pingvin
+🕊️	var
+🕊	var
+🦅	Örn
+🦆	Anka
+🦢	svan
+🦉	Uggla
+🦚	påfågel
+🦜	papegoja
+🐸	groda ansikte
+🐊	krokodil
+🐢	sköldpadda
+🦎	ödla
+🐍	orm
+🐲	drake ansikte
+🐉	drake
+🦕	sauropod
+🦖	T Rex
+🐳	spruta val
+🐋	val
+🐬	delfin
+🐟	fisk
+🐠	tropisk fisk
+🐡	blåsfisk
+🦈	haj
+🐙	bläckfisk
+🐚	spiral skal
+🦀	krabba
+🦞	hummer
+🦐	räka
+🦑	bläckfisk
+🐌	snigel
+🦋	fjäril
+🐛	insekt
+🐜	på
+🐝	honungsbi
+🐞	dam skalbagge
+🦗	cricket
+🕷️	Spindel
+🕷	Spindel
+🕸️	spindelnät
+🕸	spindelnät
+🦂	skorpion
+🦟	mygga
+🦠	mikrob
+💐	bukett
+🌸	körsbärsblom
+💮	vit blomma
+🏵️	rosett
+🏵	rosett
+🌹	reste sig
+🥀	vissnat blomma
+🌺	hibiskus
+🌻	solros
+🌼	blomma
+🌷	tulpan
+🌱	fröplanta
+🌲	vintergröna träd
+🌳	Lövträd
+🌴	palmträd
+🌵	kaktus
+🌾	ris kakor
+🌿	ört
+☘️	vitklöver
+☘	vitklöver
+🍀	fyrklöver
+🍁	lönnlöv
+🍂	hösten blad
+🍃	blad fladdrande i vinden
+🍇	vindruvor
+🍈	melon
+🍉	vattenmelon
+🍊	mandarin
+🍋	citron-
+🍌	banan
+🍍	ananas
+🥭	mango
+🍎	rött äpple
+🍏	grönt äpple
+🍐	päron
+🍑	persika
+🍒	körsbär
+🍓	jordgubbe
+🥝	Kiwi frukt
+🍅	tomat
+🥥	kokos
+🥑	avokado
+🍆	äggplanta
+🥔	potatis
+🥕	morot
+🌽	Ax
+🌶️	het peppar
+🌶	het peppar
+🥒	gurka
+🥬	löv grön
+🥦	broccoli
+🍄	svamp
+🥜	jordnötter
+🌰	kastanj
+🍞	bröd
+🥐	ökande
+🥖	baguettbröd
+🥨	pretzel
+🥯	bagel
+🥞	pannkakor
+🧀	ostkil
+🍖	kött på ben
+🍗	fjäderfäben
+🥩	skära kött
+🥓	bacon
+🍔	hamburgare
+🍟	pommes frites
+🍕	pizza
+🌭	varmkorv
+🥪	smörgås
+🌮	taco
+🌯	burrito
+🥙	fylld plattbröd
+🥚	ägg
+🍳	matlagning
+🥘	grunt skål med mat
+🍲	kruka med mat
+🥣	skål med sked
+🥗	grönsallad
+🍿	popcorn
+🧂	salt-
+🥫	konserverad mat
+🍱	bentobox
+🍘	ris cracker
+🍙	risboll
+🍚	kokt ris
+🍛	Curry ris
+🍜	ångande skål
+🍝	spaghetti
+🍠	rostad sötpotatis
+🍢	oden
+🍣	sushi
+🍤	friterad räka
+🍥	fiskkaka med virvel
+🥮	månkaka
+🍡	dango
+🥟	klimp
+🥠	lyckokaka
+🥡	avhämtningsbox
+🍦	mjukglass
+🍧	rakad is
+🍨	glass
+🍩	munk
+🍪	småkakor
+🎂	födelsedagstårta
+🍰	shortcake
+🧁	muffin
+🥧	till
+🍫	chokladkaka
+🍬	godis
+🍭	klubba
+🍮	tjock vaniljsås
+🍯	honungskruka
+🍼	nappflaska
+🥛	glas med mjölk
+☕	varm dryck
+🍵	tekopp utan handtag
+🍶	skull
+🍾	flaska med poppande kork
+🍷	vinglas
+🍸	cocktailglas
+🍹	tropisk drink
+🍺	ölmugg
+🍻	klinkande ölmuggar
+🥂	klirrande glasögon
+🥃	tumglasglas
+🥤	kopp med halm
+🥢	pinnar
+🍽️	gaffel och kniv med plattan
+🍽	gaffel och kniv med plattan
+🍴	gaffel och kniv
+🥄	sked
+🔪	kökskniv
+🏺	amfora
+🌍	världen som visar Europa-Afrika
+🌎	världen visar Americas
+🌏	världen visar Asien-Australien
+🌐	världen med meridianer
+🗺️	världskarta
+🗺	världskarta
+🗾	karta över Japan
+🧭	kompass
+🏔️	snöklädda berg
+🏔	snöklädda berg
+⛰️	berg
+⛰	berg
+🌋	vulkan
+🗻	berget Fuji
+🏕️	camping
+🏕	camping
+🏖️	strand med paraply
+🏖	strand med paraply
+🏜️	öken-
+🏜	öken-
+🏝️	öde ö
+🏝	öde ö
+🏞️	nationalpark
+🏞	nationalpark
+🏟️	stadion
+🏟	stadion
+🏛️	klassisk byggnad
+🏛	klassisk byggnad
+🏗️	byggnadskonstruktion
+🏗	byggnadskonstruktion
+🧱	tegelstenar
+🏘️	hus
+🏘	hus
+🏚️	övergivna hus
+🏚	övergivna hus
+🏠	hus
+🏡	hus med trädgård
+🏢	kontorsbyggnad
+🏣	Japanska postkontor
+🏤	postkontor
+🏥	sjukhus
+🏦	Bank
+🏨	hotell
+🏩	älskar hotell
+🏪	närbutik
+🏫	skola
+🏬	varuhus
+🏭	fabrik
+🏯	Japansk slott
+🏰	slott
+🗼	Tokyo torn
+🗽	Frihetsgudinnan
+⛪	kyrka
+🕌	moské
+🕍	synagoga
+⛩️	shinto helgedom
+⛩	shinto helgedom
+🕋	kaaba
+⛲	fontän
+⛺	tält
+🌁	dimmig
+🌃	natt med stjärnor
+🏙️	stadsbild
+🏙	stadsbild
+🌄	soluppgång över bergen
+🌅	soluppgång
+🌆	stadsbild i skymningen
+🌇	solnedgång
+🌉	bro på natten
+♨️	heta källor
+♨	heta källor
+🌌	Vintergatan
+🎠	karusellhäst
+🎡	pariserhjul
+🎢	Berg och dalbana
+💈	barberstång
+🎪	cirkustält
+🚂	lokomotiv
+🚃	järnvägsbil
+🚄	höghastighetståg
+🚅	bullet tåg
+🚆	tåg
+🚇	metro
+🚈	snabbspårväg
+🚉	station
+🚊	spårvagn
+🚝	monorail
+🚞	berg järnväg
+🚋	spårvagn bil
+🚌	buss
+🚍	mötande buss
+🚎	trådbuss
+🚐	minibus
+🚑	ambulans
+🚒	brandbil
+🚓	polis bil
+🚔	mötande polisbil
+🚕	taxi
+🚖	mötande taxi
+🚗	bil
+🚘	kommande bil
+🚙	sport nyttofordon
+🚚	leveransbil
+🚛	ledad lastbil
+🚜	traktor
+🚲	cykel
+🛴	sparka skoter
+🛹	skateboard
+🛵	motorscooter
+🚏	busshållplats
+🛣️	motorväg
+🛣	motorväg
+🛤️	järnvägsspår
+🛤	järnvägsspår
+🛢️	oljefat
+🛢	oljefat
+⛽	bensinpump
+🚨	polisbil ljus
+🚥	horisontellt trafikljus
+🚦	vertikalt trafikljus
+🛑	Stopp skylt
+🚧	konstruktion
+⚓	ankare
+⛵	segelbåt
+🛶	kanot
+🚤	snabb motorbåt
+🛳️	passagerar skepp
+🛳	passagerar skepp
+⛴️	färja
+⛴	färja
+🛥️	motorbåt
+🛥	motorbåt
+🚢	fartyg
+✈️	flygplan
+✈	flygplan
+🛩️	litet flygplan
+🛩	litet flygplan
+🛫	flygplanavgång
+🛬	flygplan ankomst
+💺	sittplats
+🚁	helikopter
+🚟	häng järnväg
+🚠	bergsbanan
+🚡	antennspårväg
+🛰️	satellit
+🛰	satellit
+🚀	raket
+🛸	flygande tefat
+🛎️	bellhop bell
+🛎	bellhop bell
+🧳	bagage
+⌛	timglas gjort
+⏳	timglas inte gjort
+⌚	Kolla på
+⏰	väckarklocka
+⏱️	stoppur
+⏱	stoppur
+⏲️	timerklocka
+⏲	timerklocka
+🕰️	mantelpiece klocka
+🕰	mantelpiece klocka
+🕛	klockan tolv
+🕧	halv ett
+🕐	klockan ett
+🕜	en trettio
+🕑	klockan två
+🕝	två och trettio
+🕒	klockan tre
+🕞	tre trettio
+🕓	klockan fyra
+🕟	fyra trettio
+🕔	klockan fem
+🕠	halv sex
+🕕	klockan sex
+🕡	sex trettio
+🕖	klockan sju
+🕢	halv åtta
+🕗	klockan åtta
+🕣	åtta trettio
+🕘	klockan nio
+🕤	nio trettio
+🕙	klockan tio
+🕥	tio och trettio
+🕚	klockan elva
+🕦	halv tolv
+🌑	ny måne
+🌒	växande halvmåne
+🌓	första kvartalet månen
+🌔	vaxande gibbous måne
+🌕	fullmåne
+🌖	avtagande gibbous måne
+🌗	sista kvartalet månen
+🌘	avtagande halvmåne
+🌙	halv måne
+🌚	ny måne ansikte
+🌛	första kvartal månen ansikte
+🌜	sista kvartalet månen ansikte
+🌡️	termometer
+🌡	termometer
+☀️	Sol
+☀	Sol
+🌝	fullmånes ansikte
+🌞	sol med ansikte
+⭐	stjärna
+🌟	glödande stjärna
+🌠	stjärnfall
+☁️	moln
+☁	moln
+⛅	solen bakom molnet
+⛈️	moln med blixt och regn
+⛈	moln med blixt och regn
+🌤️	solen bakom litet moln
+🌤	solen bakom litet moln
+🌥️	solen bakom stort moln
+🌥	solen bakom stort moln
+🌦️	sol bakom regnmoln
+🌦	sol bakom regnmoln
+🌧️	moln med regn
+🌧	moln med regn
+🌨️	moln med snö
+🌨	moln med snö
+🌩️	moln med blixtnedslag
+🌩	moln med blixtnedslag
+🌪️	tornado
+🌪	tornado
+🌫️	tand
+🌫	tand
+🌬️	vind ansikte
+🌬	vind ansikte
+🌀	cyklon
+🌈	regnbåge
+🌂	stängt paraply
+☂️	paraply
+☂	paraply
+☔	paraply med regndroppar
+⛱️	paraply på marken
+⛱	paraply på marken
+⚡	högspänning
+❄️	snöflinga
+❄	snöflinga
+☃️	snögubbe
+☃	snögubbe
+⛄	snögubbe utan snö
+☄️	komet
+☄	komet
+🔥	brand
+💧	liten droppe
+🌊	vattenvåg
+🎃	jack-o-lantern
+🎄	julgran
+🎆	fyrverkeri
+🎇	sparkler
+🧨	smällare
+✨	pärlar
+🎈	ballong
+🎉	party popper
+🎊	konfettiboll
+🎋	tanabata träd
+🎍	tall dekoration
+🎎	Japanska dockor
+🎏	karp streamer
+🎐	vindspel
+🎑	månvisningsceremonin
+🧧	rött kuvert
+🎀	band
+🎁	inslagna present
+🎗️	påminnelse band
+🎗	påminnelse band
+🎟️	entrébiljetter
+🎟	entrébiljetter
+🎫	biljett
+🎖️	militärmedalj
+🎖	militärmedalj
+🏆	trofén
+🏅	idrottsmedalj
+🥇	1: a plats medalj
+🥈	2: a plats medalj
+🥉	3: e plats medalj
+⚽	fotboll
+⚾	baseboll
+🥎	mjuk boll
+🏀	basketboll
+🏐	volleyboll
+🏈	amerikansk fotboll
+🏉	rugbyfotboll
+🎾	tennis
+🥏	flygskiva
+🎳	bowling
+🏏	cricket spel
+🏑	landhockey
+🏒	ishockey
+🥍	lacrosse
+🏓	pingis
+🏸	badminton
+🥊	Boxningshandske
+🥋	kampsport uniform
+🥅	mål netto
+⛳	flagga i hålet
+⛸️	skridsko
+⛸	skridsko
+🎣	metspö
+🎽	springa tröja
+🎿	skidor
+🛷	ett spår
+🥌	curling sten
+🎯	direkt hit
+🎱	pool 8 boll
+🔮	kristallkula
+🧿	nazar amulett
+🎮	TV-spel
+🕹️	joystick
+🕹	joystick
+🎰	enarmad bandit
+🎲	spelet dör
+🧩	kontursåg
+🧸	nallebjörn
+♠️	spade kostym
+♠	spade kostym
+♥️	hjärtat kostym
+♥	hjärtat kostym
+♦️	diamant kostym
+♦	diamant kostym
+♣️	klubbdräkt
+♣	klubbdräkt
+♟️	schackpant
+♟	schackpant
+🃏	joker
+🀄	mahjong röd drake
+🎴	blomma spelkort
+🎭	scenkonst
+🖼️	inramad bild
+🖼	inramad bild
+🎨	konstnärspalett
+🧵	tråd
+🧶	garn
+🔇	dämpad högtalare
+🔈	högtalare låg volym
+🔉	högtalare mediumvolym
+🔊	högtalare hög volym
+📢	högtalare
+📣	megafon
+📯	posthorn
+🔔	klocka
+🔕	klocka med snedstreck
+🎼	musikalisk poäng
+🎵	musiknot
+🎶	musiknoter
+🎙️	studiomikrofon
+🎙	studiomikrofon
+🎚️	nivåreglage
+🎚	nivåreglage
+🎛️	kontrollvred
+🎛	kontrollvred
+🎤	mikrofon
+🎧	hörlurar
+📻	radio
+🎷	saxofon
+🎸	gitarr
+🎹	musikaliskt tangentbord
+🎺	trumpet
+🎻	fiol
+🥁	trumma
+📱	mobiltelefon
+📲	mobiltelefon med pil
+☎️	telefon
+☎	telefon
+📞	telefonmottagare
+📟	personsökare
+📠	faxmaskin
+🔋	batteri
+🔌	elektrisk kontakt
+💻	bärbar dator
+🖥️	stationär dator
+🖥	stationär dator
+🖨️	skrivare
+🖨	skrivare
+⌨️	tangentbord
+⌨	tangentbord
+🖱️	data mus
+🖱	data mus
+🖲️	styrkula
+🖲	styrkula
+💽	datordisk
+💾	Diskett
+💿	optisk disk
+📀	dvd
+🧮	kulram
+🎥	filmkamera
+🎞️	filmramar
+🎞	filmramar
+📽️	projektor film
+📽	projektor film
+🎬	klappa ombord
+📺	tv
+📷	kamera
+📸	kamera med blixt
+📹	videokamera
+📼	videoband
+🔍	förstoringsglas lutade åt vänster
+🔎	förstoringsglas lutad åt höger
+🕯️	ljus
+🕯	ljus
+💡	glödlampa
+🔦	ficklampa
+🏮	röd papperslyktan
+📔	anteckningsbok med dekorativt omslag
+📕	stängd bok
+📖	öppen bok
+📗	grön bok
+📘	blå bok
+📙	orange bok
+📚	böcker
+📓	anteckningsbok
+📒	huvudbok
+📃	sida med lock
+📜	skrolla
+📄	sidan uppåt
+📰	tidning
+🗞️	upprullad tidning
+🗞	upprullad tidning
+📑	bokmärkesflikar
+🔖	bokmärke
+🏷️	märka
+🏷	märka
+💰	pengar väska
+💴	yensedeln
+💵	dollar sedel
+💶	eurosedel
+💷	pund sedel
+💸	pengar med vingar
+💳	kreditkort
+🧾	mottagande
+💹	diagram ökar med yen
+💱	valutaväxling
+💲	tungt dollartecken
+✉️	kuvert
+✉	kuvert
+📧	e-post
+📨	inkommande kuvert
+📩	kuvert med pilen
+📤	utkorgen
+📥	inkorgsfacket
+📦	paket
+📫	stängd brevlåda med upphöjd flagga
+📪	stängd brevlåda med sänkt flagga
+📬	öppen brevlåda med upphöjd flagga
+📭	öppen brevlåda med sänkt flagga
+📮	Brevlåda
+🗳️	valurnor med omröstning
+🗳	valurnor med omröstning
+✏️	penna
+✏	penna
+✒️	svart nib
+✒	svart nib
+🖋️	reservoarpenna
+🖋	reservoarpenna
+🖊️	penna
+🖊	penna
+🖌️	paintbrush
+🖌	paintbrush
+🖍️	blyertspenna
+🖍	blyertspenna
+📝	PM
+💼	portfölj
+📁	filmapp
+📂	öppen filmapp
+🗂️	kortindexdelare
+🗂	kortindexdelare
+📅	kalender
+📆	avrivningskalender
+🗒️	spiral anteckningar
+🗒	spiral anteckningar
+🗓️	spiralkalender
+🗓	spiralkalender
+📇	kortindex
+📈	diagram ökar
+📉	diagram minskar
+📊	stapeldiagram
+📋	Urklipp
+📌	kartnål
+📍	rund pushpin
+📎	gem
+🖇️	länkade pappersklipp
+🖇	länkade pappersklipp
+📏	rak linjal
+📐	triangulär linjal
+✂️	sax
+✂	sax
+🗃️	kortfilbox
+🗃	kortfilbox
+🗄️	arkivskåp
+🗄	arkivskåp
+🗑️	papperskorg
+🗑	papperskorg
+🔒	låst
+🔓	olåst
+🔏	låst med penna
+🔐	låst med nyckel
+🔑	nyckel-
+🗝️	gammal nyckel
+🗝	gammal nyckel
+🔨	hammare
+⛏️	plocka
+⛏	plocka
+⚒️	hammare och plocka
+⚒	hammare och plocka
+🛠️	hammare och skiftnyckel
+🛠	hammare och skiftnyckel
+🗡️	dolk
+🗡	dolk
+⚔️	korsade svärd
+⚔	korsade svärd
+🔫	pistol
+🏹	pil och båge
+🛡️	skydda
+🛡	skydda
+🔧	rycka
+🔩	mutter och bult
+⚙️	redskap
+⚙	redskap
+🗜️	klämma
+🗜	klämma
+⚖️	balansskala
+⚖	balansskala
+🔗	länk
+⛓️	kedjor
+⛓	kedjor
+🧰	verktygslåda
+🧲	magnet
+⚗️	Alembic
+⚗	Alembic
+🧪	provrör
+🧫	petriskål
+🧬	gikt
+🔬	mikroskop
+🔭	teleskop
+📡	satellitantenn
+💉	spruta
+💊	piller
+🚪	av
+🛏️	säng
+🛏	säng
+🛋️	soffa och lampa
+🛋	soffa och lampa
+🚽	toalett
+🚿	dusch
+🛁	badkar
+🧴	lotionsflaska
+🧷	säkerhetsnål
+🧺	korg
+🧻	pappersrulle
+🧼	tvål
+🧽	svamp
+🧯	brandsläckare
+🛒	kundvagn
+🚬	cigarett
+⚰️	Kista
+⚰	Kista
+⚱️	begravning urna
+⚱	begravning urna
+🗿	vacker
+🏧	ATM-skylt
+🚮	skräp i papperskorgen
+🚰	dricksvatten
+♿	rullstolsymbol
+🚹	herrarnas
+🚺	kvinnorum
+🚻	toalett
+🚼	baby symbol
+🚾	toalett
+🛂	passkontroll
+🛃	tull
+🛄	bagage fordran
+🛅	glömt bagage
+⚠️	varning
+⚠	varning
+🚸	barn korsar
+⛔	ingen ingång
+🚫	förbjuden
+🚳	inga cyklar
+🚭	ingen rökning
+🚯	ingen nedskräpning
+🚱	icke dricksvatten
+🚷	inga fotgängare
+📵	inga mobiltelefoner
+🔞	ingen under arton
+☢️	radioaktiv
+☢	radioaktiv
+☣️	biohazard
+☣	biohazard
+⬆️	uppåtpil
+⬆	uppåtpil
+↗️	högerpilen
+↗	högerpilen
+➡️	höger pil
+➡	höger pil
+↘️	pil nedåt till höger
+↘	pil nedåt till höger
+⬇️	nedåtpil
+⬇	nedåtpil
+↙️	pil nedåt till vänster
+↙	pil nedåt till vänster
+⬅️	vänster pil
+⬅	vänster pil
+↖️	pil upp-vänster
+↖	pil upp-vänster
+↕️	upp-ner-pil
+↕	upp-ner-pil
+↔️	vänster-höger pil
+↔	vänster-höger pil
+↩️	högerpil böjd till vänster
+↩	högerpil böjd till vänster
+↪️	vänsterpil böjd höger
+↪	vänsterpil böjd höger
+⤴️	högerpil som böjer sig
+⤴	högerpil som böjer sig
+⤵️	högerpil som böjer sig
+⤵	högerpil som böjer sig
+🔃	vertikala pilar medurs
+🔄	moturs pilknapp
+🔙	BACK-pilen
+🔚	SLUTPIL
+🔛	PÅ! pil
+🔜	SNART pil
+🔝	TOPP-pilen
+🛐	plats för tillbedjan
+⚛️	atomsymbol
+⚛	atomsymbol
+🕉️	om
+🕉	om
+✡️	Davidsstjärna
+✡	Davidsstjärna
+☸️	hjulet av dharma
+☸	hjulet av dharma
+☯️	Yin yang
+☯	Yin yang
+✝️	latin kors
+✝	latin kors
+☦️	ortodoxa kors
+☦	ortodoxa kors
+☪️	stjärna och halvmåne
+☪	stjärna och halvmåne
+☮️	fredsymbol
+☮	fredsymbol
+🕎	menora
+🔯	prickade sexspetsig stjärna
+♈	väduren
+♉	oxen
+♊	tvillingarna
+♋	cancer
+♌	lejonet
+♍	Jungfrun
+♎	böcker
+♏	skorpionen
+♐	skytten
+♑	stenbocken
+♒	vattumannen
+♓	fiskarna
+⛎	Ophiuchus
+🔀	knappen för att blanda spår
+🔁	upprepa-knappen
+🔂	upprepa enstaka knapp
+▶️	spela knappen
+▶	spela knappen
+⏩	snabbspolningsknapp
+⏭️	nästa spårknapp
+⏭	nästa spårknapp
+⏯️	spela eller pausa knappen
+⏯	spela eller pausa knappen
+◀️	omvänd knapp
+◀	omvänd knapp
+⏪	snabb bakåtknapp
+⏮️	sista spårknappen
+⏮	sista spårknappen
+🔼	uppåt-knappen
+⏫	snabbknapp
+🔽	nedåt-knappen
+⏬	snabb ner-knappen
+⏸️	pausknapp
+⏸	pausknapp
+⏹️	stoppknapp
+⏹	stoppknapp
+⏺️	inspelningsknapp
+⏺	inspelningsknapp
+⏏️	mata ut knappen
+⏏	mata ut knappen
+🎦	bio
+🔅	dim knapp
+🔆	ljus knapp
+📶	antennstänger
+📳	vibrationsläge
+📴	mobiltelefon av
+♀️	kvinnligt tecken
+♀	kvinnligt tecken
+♂️	manligt tecken
+♂	manligt tecken
+⚕️	medicinsk symbol
+⚕	medicinsk symbol
+♾️	oändlighet
+♾	oändlighet
+♻️	återvinning symbol
+♻	återvinning symbol
+⚜️	IRIS
+⚜	IRIS
+🔱	trident emblem
+📛	namnbricka
+🔰	Japansk symbol för nybörjare
+⭕	tung stor cirkel
+✅	vit tungt märke
+☑️	valurnan med check
+☑	valurnan med check
+✔️	tungt märke
+✔	tungt märke
+✖️	tung multiplikation x
+✖	tung multiplikation x
+❌	korsmärke
+❎	korsmarkeringsknapp
+➕	tungt plustecken
+➖	tungt minustecken
+➗	tung divisionsskylt
+➰	lockig slinga
+➿	dubbel lockig slinga
+〽️	delväxlingsmärke
+〽	delväxlingsmärke
+✳️	åtta-spoked asterisk
+✳	åtta-spoked asterisk
+✴️	åtterspetsig stjärna
+✴	åtterspetsig stjärna
+❇️	gnistra
+❇	gnistra
+‼️	dubbel utropstecken
+‼	dubbel utropstecken
+⁉️	frågan för utropstecken
+⁉	frågan för utropstecken
+❓	frågetecken
+❔	vitt frågetecken
+❕	vit utropstecken
+❗	utropstecken
+〰️	vågigt streck
+〰	vågigt streck
+©️	upphovsrätt
+©	upphovsrätt
+®️	registrerad
+®	registrerad
+™️	varumärke
+™	varumärke
+#️⃣	nyckelknapp: #
+#⃣	nyckelknapp: #
+*️⃣	nyckelknapp: *
+*⃣	nyckelknapp: *
+0️⃣	nyckelknapp: 0
+0⃣	nyckelknapp: 0
+1️⃣	nyckelknapp: 1
+1⃣	nyckelknapp: 1
+2️⃣	nyckelknapp: 2
+2⃣	nyckelknapp: 2
+3️⃣	nyckelknapp: 3
+3⃣	nyckelknapp: 3
+4️⃣	nyckelknapp: 4
+4⃣	nyckelknapp: 4
+5️⃣	nyckelknapp: 5
+5⃣	nyckelknapp: 5
+6️⃣	nyckelknapp: 6
+6⃣	nyckelknapp: 6
+7️⃣	nyckelknapp: 7
+7⃣	nyckelknapp: 7
+8️⃣	nyckelknapp: 8
+8⃣	nyckelknapp: 8
+9️⃣	nyckelknapp: 9
+9⃣	nyckelknapp: 9
+🔟	nyckelknapp: 10
+💯	hundra poäng
+🔠	mata in latin stora versaler
+🔡	mata in latinska gemener
+🔢	inmatningsnummer
+🔣	ingångssymboler
+🔤	mata in latinska bokstäver
+🅰️	En knapp (blodtyp)
+🅰	En knapp (blodtyp)
+🆎	AB-knapp (blodtyp)
+🅱️	B-knapp (blodtyp)
+🅱	B-knapp (blodtyp)
+🆑	CL-knapp
+🆒	COOL-knapp
+🆓	GRATIS knapp
+ℹ️	information
+ℹ	information
+🆔	ID-knapp
+Ⓜ️	kretsade M
+Ⓜ	kretsade M
+🆕	NY knapp
+🆖	NG-knapp
+🅾️	O-knapp (blodtyp)
+🅾	O-knapp (blodtyp)
+🆗	OK-knapp
+🅿️	P-knapp
+🅿	P-knapp
+🆘	SOS-knapp
+🆙	UPP! knapp
+🆚	VS-knapp
+🈁	Japansk &quot;här&quot; -knapp
+🈂️	Japansk “serviceavgift” -knapp
+🈂	Japansk “serviceavgift” -knapp
+🈷️	Japansk &quot;månadsbelopp&quot; -knapp
+🈷	Japansk &quot;månadsbelopp&quot; -knapp
+🈶	Japansk &quot;inte gratis&quot; -knapp
+🈯	Japansk ”reserverad” knapp
+🉐	Japansk &quot;fynd&quot; -knapp
+🈹	Japansk &quot;rabatt&quot; -knapp
+🈚	Japansk “gratis” -knapp
+🈲	Japansk &quot;förbjuden&quot; knapp
+🉑	Japansk &quot;acceptabel&quot; knapp
+🈸	Japansk “applikation” -knapp
+🈴	Japansk ”godkänd” -knapp
+🈳	Japansk &quot;vakans&quot; -knapp
+㊗️	Japansk &quot;grattis&quot; -knapp
+㊗	Japansk &quot;grattis&quot; -knapp
+㊙️	Japansk &quot;hemlig&quot; knapp
+㊙	Japansk &quot;hemlig&quot; knapp
+🈺	Japansk &quot;öppen för företag&quot; -knappen
+🈵	Japansk &quot;ingen ledig&quot; -knapp
+▪️	svart liten fyrkant
+▪	svart liten fyrkant
+▫️	vit liten fyrkant
+▫	vit liten fyrkant
+◻️	vitt medium kvadrat
+◻	vitt medium kvadrat
+◼️	svart medium fyrkant
+◼	svart medium fyrkant
+◽	vitt medium-litet torg
+◾	svart medium-liten fyrkant
+⬛	svart stor fyrkant
+⬜	vit stor fyrkant
+🔶	stor orange diamant
+🔷	stor blå diamant
+🔸	liten orange diamant
+🔹	liten blå diamant
+🔺	röd triangel uppåt
+🔻	röd triangel nedåt
+💠	diamant med en prick
+🔘	Radio knapp
+🔲	svart fyrkantig knapp
+🔳	vit fyrkant knapp
+⚪	vit cirkel
+⚫	svart cirkel
+🔴	röd cirkel
+🔵	blå cirkel
+🏁	rutig flagga
+🚩	triangulär flagga
+🎌	korsade flaggor
+🏴	svart flagga
+🏳️	vit flagga
+🏳	vit flagga
+🏳️‍🌈	regnbågens flagga
+🏳‍🌈	regnbågens flagga
+🏴‍☠️	piratflagga
+🏴‍☠	piratflagga
+🇦🇨	Uppstigning Island
+🇦🇩	Andorra
+🇦🇪	Förenade arabemiraten
+🇦🇫	afghanistan
+🇦🇬	Antigua &amp; Barbuda
+🇦🇮	Anguilla
+🇦🇱	albania
+🇦🇲	armenien
+🇦🇴	angola
+🇦🇶	antarktis
+🇦🇷	Argentina
+🇦🇸	Amerikanska Samoa
+🇦🇹	österrike
+🇦🇺	Australien
+🇦🇼	Aruba
+🇦🇽	Åland Islands
+🇦🇿	Azerbajdzjan
+🇧🇦	Bosnien och Hercegovina
+🇧🇧	Barbados
+🇧🇩	Bangladesh
+🇧🇪	belgien
+🇧🇫	Burkina Faso
+🇧🇬	bulgarien
+🇧🇭	Bahrain
+🇧🇮	burundi
+🇧🇯	Benin
+🇧🇱	St. Barthélemy
+🇧🇲	Bermuda
+🇧🇳	Brunei
+🇧🇴	bolivia
+🇧🇶	Karibien Nederländerna
+🇧🇷	Brasilien
+🇧🇸	Bahamas
+🇧🇹	bhutan
+🇧🇻	Bouvet Island
+🇧🇼	botswana
+🇧🇾	Vitryssland
+🇧🇿	Belize
+🇨🇦	kanada
+🇨🇨	Cocos (Keeling) öarna
+🇨🇩	Kongo - Kinshasa
+🇨🇫	Centralafrikanska republiken
+🇨🇬	Kongo - Brazzaville
+🇨🇭	schweiz
+🇨🇮	Elfenbenskusten
+🇨🇰	Cooköarna
+🇨🇱	Chile
+🇨🇲	Kamerun
+🇨🇳	Kina
+🇨🇴	Colombia
+🇨🇵	Clipperton Island
+🇨🇷	Costa Rica
+🇨🇺	kuba
+🇨🇻	Kap Verde
+🇨🇼	Curaçao
+🇨🇽	Julön
+🇨🇾	cypern
+🇨🇿	Tjeckien
+🇩🇪	Tyskland
+🇩🇬	Diego Garcia
+🇩🇯	Djibouti
+🇩🇰	Danmark
+🇩🇲	Dominica
+🇩🇴	Dominikanska republiken
+🇩🇿	algeriet
+🇪🇦	Ceuta &amp; Melilla
+🇪🇨	ecuador
+🇪🇪	estland
+🇪🇬	egypten
+🇪🇭	Västra Sahara
+🇪🇷	Eritrea
+🇪🇸	spanien
+🇪🇹	etiopien
+🇪🇺	europeiska unionen
+🇫🇮	finland
+🇫🇯	Fiji
+🇫🇰	Falklandsöarna
+🇫🇲	Mikronesien
+🇫🇴	Färöarna
+🇫🇷	frankrike
+🇬🇦	gabon
+🇬🇧	Storbritannien
+🇬🇩	Grenada
+🇬🇪	georgien
+🇬🇫	Franska Guyana
+🇬🇬	Guernsey
+🇬🇭	ghana
+🇬🇮	gibraltar
+🇬🇱	grönland
+🇬🇲	Gambia
+🇬🇳	guinea
+🇬🇵	Guadeloupe
+🇬🇶	Ekvatorialguinea
+🇬🇷	grekland
+🇬🇸	South Georgia &amp; South Sandwich Islands
+🇬🇹	guatemala
+🇬🇺	Guam
+🇬🇼	GUINEA-BISSAU
+🇬🇾	Guyana
+🇭🇰	Hong Kong SAR Kina
+🇭🇲	Heard &amp; McDonald Islands
+🇭🇳	Honduras
+🇭🇷	kroatien
+🇭🇹	haiti
+🇭🇺	Ungern
+🇮🇨	Kanarieöarna
+🇮🇩	Indonesien
+🇮🇪	irland
+🇮🇱	Israel
+🇮🇲	ö av man
+🇮🇳	indien
+🇮🇴	Brittiska territoriet i Indiska oceanen
+🇮🇶	irak
+🇮🇷	iran
+🇮🇸	island
+🇮🇹	Italien
+🇯🇪	Jersey
+🇯🇲	jamaica
+🇯🇴	jordanien
+🇯🇵	japan
+🇰🇪	kenya
+🇰🇬	Kirgizistan
+🇰🇭	kambodja
+🇰🇮	Kiribati
+🇰🇲	Komorerna
+🇰🇳	St. Kitts &amp; Nevis
+🇰🇵	Nordkorea
+🇰🇷	Sydkorea
+🇰🇼	kuwait
+🇰🇾	Caymanöarna
+🇰🇿	Kazakstan
+🇱🇦	laos
+🇱🇧	libanon
+🇱🇨	St. Lucia
+🇱🇮	liechtenstein
+🇱🇰	Sri Lanka
+🇱🇷	liberia
+🇱🇸	lesotho
+🇱🇹	litauen
+🇱🇺	luxemburg
+🇱🇻	lettland
+🇱🇾	libyen
+🇲🇦	Marocko
+🇲🇨	Monaco
+🇲🇩	Moldavien
+🇲🇪	Montenegro
+🇲🇫	St. Martin
+🇲🇬	madagaskar
+🇲🇭	Marshallöarna
+🇲🇰	Makedonien
+🇲🇱	mali
+🇲🇲	Myanmar (Burma)
+🇲🇳	mongoliet
+🇲🇴	Macau SAR Kina
+🇲🇵	Norra Marianöarna
+🇲🇶	Martinique
+🇲🇷	Mauretanien
+🇲🇸	Montserrat
+🇲🇹	malta
+🇲🇺	Mauritius
+🇲🇻	Maldiverna
+🇲🇼	Malawi
+🇲🇽	mexico
+🇲🇾	Malaysia
+🇲🇿	Moçambique
+🇳🇦	Namibia
+🇳🇨	Nya Kaledonien
+🇳🇪	niger
+🇳🇫	Norfolk Island
+🇳🇬	nigeria
+🇳🇮	nicaragua
+🇳🇱	nederländerna
+🇳🇴	Norge
+🇳🇵	nepal
+🇳🇷	Nauru
+🇳🇺	Niue
+🇳🇿	Nya Zeeland
+🇴🇲	oman
+🇵🇦	panama
+🇵🇪	peru
+🇵🇫	Franska Polynesien
+🇵🇬	Papua Nya Guinea
+🇵🇭	filippinerna
+🇵🇰	pakistan
+🇵🇱	polen
+🇵🇲	St Pierre &amp; Miquelon
+🇵🇳	Pitcairnöarna
+🇵🇷	Puerto Rico
+🇵🇸	Palestinska territorier
+🇵🇹	portugal
+🇵🇼	Palau
+🇵🇾	paraguay
+🇶🇦	Qatar
+🇷🇪	möte
+🇷🇴	Rumänien
+🇷🇸	Serbien
+🇷🇺	ryssland
+🇷🇼	Rwanda
+🇸🇦	Saudiarabien
+🇸🇧	Salomonöarna
+🇸🇨	Seychellerna
+🇸🇩	Sudan
+🇸🇪	Sverige
+🇸🇬	Singapore
+🇸🇭	St. Helena
+🇸🇮	slovenien
+🇸🇯	Svalbard &amp; jan mayen
+🇸🇰	Slovakien
+🇸🇱	Sierra Leone
+🇸🇲	San Marino
+🇸🇳	Senegal
+🇸🇴	Somalia
+🇸🇷	Surinam
+🇸🇸	södra Sudan
+🇸🇹	Sao Tome &amp; Principe
+🇸🇻	El salvador
+🇸🇽	St. Maarten
+🇸🇾	syrien
+🇸🇿	Swaziland
+🇹🇦	Tristan da Cunha
+🇹🇨	Turks- och Caicosöarna
+🇹🇩	tchad
+🇹🇫	Franska södra territorier
+🇹🇬	Togo
+🇹🇭	Thailand
+🇹🇯	Tadzjikistan
+🇹🇰	Tokelau
+🇹🇱	Timor-Leste
+🇹🇲	Turkmenistan
+🇹🇳	tunisien
+🇹🇴	tonga
+🇹🇷	Kalkon
+🇹🇹	Trinidad och Tobago
+🇹🇻	Tuvalu
+🇹🇼	Taiwan
+🇹🇿	Tanzania
+🇺🇦	Ukraina
+🇺🇬	Uganda
+🇺🇲	USA: s avlägsna öar
+🇺🇳	Förenta nationerna
+🇺🇸	Förenta staterna
+🇺🇾	Uruguay
+🇺🇿	Uzbekistan
+🇻🇦	Vatikanstaten
+🇻🇨	St Vincent och Grenadinerna
+🇻🇪	Venezuela
+🇻🇬	Brittiska Jungfruöarna
+🇻🇮	Amerikanska Jungfruöarna
+🇻🇳	vietnam
+🇻🇺	vanuatu
+🇼🇫	Wallis &amp; Futuna
+🇼🇸	Samoa
+🇽🇰	Kosovo
+🇾🇪	jemen
+🇾🇹	Mayotte
+🇿🇦	Sydafrika
+🇿🇲	zambia
+🇿🇼	zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	england
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	skottland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	wales
