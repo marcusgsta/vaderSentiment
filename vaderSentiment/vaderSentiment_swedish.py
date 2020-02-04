@@ -657,7 +657,6 @@ class SentimentIntensityAnalyzer(object):
 
 ############################################
 ### FUNCTIONS ADDED FOR THE SWEDISH VERSION
-# - make these function as another class, in a different file, and import ?
 
 def readTweets(filename):
     import pickle
@@ -707,29 +706,8 @@ if __name__ == '__main__':
     "😀",
     "skrattande ansikte",
     "skrattande ansikte 😀",
-    "@JohannaWestberg skärpning nu! ;)",
-    "@JohannaWestberg skärpning nu!",
-    "@Clownbrigade Vem vill inte ligga lixom... #hörvadmanvillhöra 😂 😜",
-    "@Clownbrigade Vem vill inte ligga lixom... #hörvadmanvillhöra 😂😜",
-    "@AFCWilshere4 @Kingsholmen då kan ni hålla handen och #avgå båda två. 😂 ",
-    "ansikte med tårar av glädje",
-    "😂",
-    "men wtff det är ju knappt kunskap då? 😦 enda skillnaden är att vi har fått ett till kp i matte annars är schemat som vanligt",
     "Värmde pizza i brödrosten 😂 😂",
     "Värmde pizza i brödrosten 😂😂",
-    "Känslan då man glömmer sin väska med träningskläder på bussen :')",
-    "Förkylda människor som sätter sig på tunnelbanan, fattar dom inte att dom smittar andra? #förkylning #virus",
-    "RT @elisabethohlson: Kan vi inte se drottningen på min ratade bild som en symbol för Sveriges hållning inför nazism http://t.co/hu6JhSMjvc",
-    "RT @FreakFabrik: När det kommer till att 'lita på rosa', så har jag större förtroende till Vanish än F!",
-    "1,5 timme försenat, tänker nu hoppa ombord på tåget m ord. avgångstid en timme efter mitt tåg",
-    "RT @Emmywin: Älskar när jag blir kallad konstig, att vara konstig innebär att jag inte är som andra. Älskar att vara konstig.",
-    "Veckan börjar med att jag tar med mig fel dator till jobbet och inte upptäcker det förrän jag ska koppla in den. Morr.",
-    "menar inte att vi inte ska prata om palestina, är lika viktigt det med, utan att vi inte bara ska nöja oss med rubriken med störst typsnitt",
-    "RT @jennylinp: Den här ramsan 'dagens polis skyddar morgondagens Hitler' förstår jag mig inte på.",
-
-
-
-    "Detta är inte bra.",
                 "Jag gillar inte glass",
                 "Jag inte gillar glass",
                 "Jag gillar absolut inte glass",
@@ -739,8 +717,6 @@ if __name__ == '__main__':
                  "jag älskar inte när det regnar. Not",
                 "jag älskar inte när det regnar.",
                 "jag älskar när regnar.",
-                "Jag hatar allt och alla.",
-                "Världen är en fantastiskt plats, men jag har bara inte lust idag.",
                  "VADER is smart, handsome, and funny.",  # positive sentence example
                  "VADER is smart, handsome, and funny!",
                  # punctuation emphasis handled correctly (sentiment intensity adjusted)
